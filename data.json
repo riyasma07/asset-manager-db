@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-15T18:17:01.832Z",
+  "exportedAt": "2025-11-15T18:21:24.380Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -98,7 +98,7 @@
       "name": "Glue Gun",
       "serial": "GLUE_GUN_0001",
       "condition": "working",
-      "holder": "",
+      "holder": "Riyas",
       "id": 11
     }
   ],
@@ -632,6 +632,16 @@
       "date": "15/11/2025, 11:47:00 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 58
+    },
+    {
+      "itemId": 11,
+      "itemName": "Glue Gun",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "15/11/2025, 11:47:41 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 59
     }
   ]
 }
