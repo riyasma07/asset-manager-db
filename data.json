@@ -1,0 +1,527 @@
+{
+  "__schema__": "asset-manager-pro",
+  "version": 1,
+  "exportedAt": "2025-11-15T10:58:21.977Z",
+  "users": [
+    {
+      "name": "MOHAMED RIYASUDEEN D",
+      "email": "mohamedr_ext@royalenfield.com",
+      "password": "Uml5QHMyNzk4",
+      "mobile": "7339197093",
+      "designation": "Engineer",
+      "department": "Software",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "name": "Baskaran Manoharan",
+      "email": "bass.mano@royalenfield.com",
+      "password": "ZTAxMDk3Mg==",
+      "mobile": "",
+      "designation": "",
+      "department": "",
+      "isAdmin": false,
+      "id": 3
+    },
+    {
+      "name": "Prasanth Chandiran",
+      "email": "prasanth_ext@royalenfield.com",
+      "password": "c3N0MDAwNA==",
+      "mobile": "",
+      "designation": "Platform Software Developer",
+      "department": "Battery Management System (BMS)",
+      "isAdmin": false,
+      "id": 4
+    },
+    {
+      "name": "Riyas",
+      "email": "riyaseee027@gmail.com",
+      "password": "aG9nd2FydHNAMTIz",
+      "mobile": "",
+      "designation": "",
+      "department": "",
+      "isAdmin": false,
+      "id": 10
+    },
+    {
+      "name": "Riyas",
+      "email": "riyaseee027@gmail.com",
+      "password": "aG9nd2FydHNAMTIz",
+      "mobile": "",
+      "designation": "",
+      "department": "",
+      "isAdmin": false,
+      "id": 12
+    }
+  ],
+  "items": [
+    {
+      "name": "Vector CANoe (VN1630)",
+      "serial": "007104-003514",
+      "condition": "working",
+      "holder": "Prasanth Chandiran",
+      "id": 1
+    },
+    {
+      "name": "Soldering Station (SOLDRON 936)",
+      "serial": "SL936000651",
+      "condition": "working",
+      "holder": "Baskaran Manoharan",
+      "id": 3
+    },
+    {
+      "name": "ITECH DC Power Supply",
+      "serial": "SN-3 710350",
+      "condition": "working",
+      "holder": "",
+      "id": 4
+    },
+    {
+      "name": "KIKUSUI Power Supply",
+      "serial": "DX000951",
+      "condition": "working",
+      "holder": "Prasanth Chandiran",
+      "id": 5
+    },
+    {
+      "name": "PE Micro Debugger",
+      "serial": "2UUSHOPE2417TE",
+      "condition": "working",
+      "holder": "Prasanth Chandiran",
+      "id": 7
+    },
+    {
+      "name": "Glue Gun",
+      "serial": "SN-0001-GLGUN",
+      "condition": "working",
+      "holder": "MOHAMED RIYASUDEEN D",
+      "id": 8
+    },
+    {
+      "name": "Logic Analyzer 8CH",
+      "serial": "SN-0001-LOGICCH8",
+      "condition": "working",
+      "holder": "MOHAMED RIYASUDEEN D",
+      "id": 9
+    },
+    {
+      "name": "FLUKE Multimeter",
+      "serial": "62290201",
+      "condition": "working",
+      "holder": "Riyas",
+      "id": 10
+    }
+  ],
+  "history": [
+    {
+      "itemId": 1,
+      "itemName": "Vector CANoe",
+      "action": "assigned",
+      "from": "Available",
+      "to": "MOHAMED RIYASUDEEN D",
+      "date": "9/11/2025, 3:04:17 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 1
+    },
+    {
+      "itemId": 1,
+      "itemName": "Vector CANoe",
+      "action": "returned",
+      "from": "MOHAMED RIYASUDEEN D",
+      "to": "Available",
+      "date": "9/11/2025, 3:04:24 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 2
+    },
+    {
+      "itemId": 1,
+      "itemName": "Vector CANoe",
+      "action": "assigned",
+      "from": "Available",
+      "to": "MOHAMED RIYASUDEEN D",
+      "date": "9/11/2025, 3:26:40 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 3
+    },
+    {
+      "itemId": 1,
+      "itemName": "Vector CANoe",
+      "action": "returned",
+      "from": "MOHAMED RIYASUDEEN D",
+      "to": "Available",
+      "date": "9/11/2025, 3:26:46 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 4
+    },
+    {
+      "itemId": 1,
+      "itemName": "Vector CANoe (VN1630)",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Baskaran Manoharan",
+      "date": "10/11/2025, 10:35:45 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 5
+    },
+    {
+      "itemId": 7,
+      "itemName": "PE Micro Debugger",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Prasanth Chandiran",
+      "date": "10/11/2025, 11:27:20 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 6
+    },
+    {
+      "itemId": 9,
+      "itemName": "Logic Analyzer 8CH",
+      "action": "assigned",
+      "from": "Available",
+      "to": "MOHAMED RIYASUDEEN D",
+      "date": "10/11/2025, 11:32:28 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 7
+    },
+    {
+      "itemId": 1,
+      "itemName": "Vector CANoe (VN1630)",
+      "action": "returned",
+      "from": "Baskaran Manoharan",
+      "to": "Available",
+      "date": "10/11/2025, 11:56:06 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 8
+    },
+    {
+      "itemId": 1,
+      "itemName": "Vector CANoe (VN1630)",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Prasanth Chandiran",
+      "date": "10/11/2025, 11:56:11 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 9
+    },
+    {
+      "itemId": 8,
+      "itemName": "Glue Gun",
+      "action": "assigned",
+      "from": "Available",
+      "to": "MOHAMED RIYASUDEEN D",
+      "date": "10/11/2025, 3:50:29 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 10
+    },
+    {
+      "itemId": 5,
+      "itemName": "KIKUSUI Power Supply",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Prasanth Chandiran",
+      "date": "10/11/2025, 6:28:25 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 11
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Baskaran Manoharan",
+      "date": "11/11/2025, 11:38:15 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 12
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Baskaran Manoharan",
+      "to": "Available",
+      "date": "11/11/2025, 11:38:45 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 13
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "11/11/2025, 11:40:58 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 14
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "11/11/2025, 11:41:04 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 15
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "11/11/2025, 11:48:04 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 16
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "12/11/2025, 12:07:25 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 17
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "12/11/2025, 11:29:27 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 18
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "12/11/2025, 11:39:29 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 19
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "12/11/2025, 11:39:34 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 20
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "13/11/2025, 12:10:32 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 21
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "13/11/2025, 12:11:26 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 22
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "13/11/2025, 11:12:23 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 23
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "13/11/2025, 11:12:28 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 24
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "13/11/2025, 11:18:33 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 25
+    },
+    {
+      "itemId": 6,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "13/11/2025, 11:18:40 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 26
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "13/11/2025, 11:53:03 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 27
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "13/11/2025, 11:53:14 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 28
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "13/11/2025, 11:53:27 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 29
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "13/11/2025, 11:53:44 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 30
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "13/11/2025, 11:53:51 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 31
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "14/11/2025, 12:06:25 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 32
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "14/11/2025, 12:06:35 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 33
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "15/11/2025, 11:58:16 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 39
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "15/11/2025, 11:58:24 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 40
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "15/11/2025, 11:58:47 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 41
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "15/11/2025, 11:58:52 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 42
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "15/11/2025, 11:59:06 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 43
+    },
+    {
+      "itemId": 3,
+      "itemName": "Soldering Station (SOLDRON 936)",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Baskaran Manoharan",
+      "date": "15/11/2025, 12:01:53 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 44
+    },
+    {
+      "itemId": 3,
+      "itemName": "SWITCH",
+      "action": "assigned",
+      "from": "25 units",
+      "to": "Riyas (5 units)",
+      "date": "15/11/2025, 12:21:24 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 45
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "15/11/2025, 4:28:18 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 46
+    }
+  ]
+}
