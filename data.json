@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-15T16:00:15.536Z",
+  "exportedAt": "2025-11-15T16:07:11.775Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -32,16 +32,6 @@
       "department": "Battery Management System (BMS)",
       "isAdmin": false,
       "id": 4
-    },
-    {
-      "name": "Riyas",
-      "email": "riyaseee027@gmail.com",
-      "password": "aG9nd2FydHNAMTIz",
-      "mobile": "",
-      "designation": "",
-      "department": "",
-      "isAdmin": false,
-      "id": 12
     }
   ],
   "items": [
