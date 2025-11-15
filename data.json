@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-15T15:06:45.397Z",
+  "exportedAt": "2025-11-15T15:08:31.810Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -32,26 +32,6 @@
       "department": "Battery Management System (BMS)",
       "isAdmin": false,
       "id": 4
-    },
-    {
-      "name": "Riyas",
-      "email": "riyaseee027@gmail.com",
-      "password": "aG9nd2FydHNAMTIz",
-      "mobile": "",
-      "designation": "",
-      "department": "",
-      "isAdmin": false,
-      "id": 10
-    },
-    {
-      "name": "Riyas",
-      "email": "riyaseee027@gmail.com",
-      "password": "aG9nd2FydHNAMTIz",
-      "mobile": "",
-      "designation": "",
-      "department": "",
-      "isAdmin": false,
-      "id": 12
     }
   ],
   "items": [
@@ -103,6 +83,13 @@
       "condition": "working",
       "holder": "",
       "id": 10
+    },
+    {
+      "name": "Glue Gun",
+      "serial": "GLUE_GUN_0001",
+      "condition": "working",
+      "holder": "",
+      "id": 11
     }
   ],
   "history": [
