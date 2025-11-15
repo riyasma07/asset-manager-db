@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-15T15:05:36.545Z",
+  "exportedAt": "2025-11-15T15:06:45.397Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -32,6 +32,16 @@
       "department": "Battery Management System (BMS)",
       "isAdmin": false,
       "id": 4
+    },
+    {
+      "name": "Riyas",
+      "email": "riyaseee027@gmail.com",
+      "password": "aG9nd2FydHNAMTIz",
+      "mobile": "",
+      "designation": "",
+      "department": "",
+      "isAdmin": false,
+      "id": 10
     },
     {
       "name": "Riyas",
@@ -79,13 +89,6 @@
       "condition": "working",
       "holder": "Prasanth Chandiran",
       "id": 7
-    },
-    {
-      "name": "Glue Gun",
-      "serial": "SN-0001-GLGUN",
-      "condition": "working",
-      "holder": "MOHAMED RIYASUDEEN D",
-      "id": 8
     },
     {
       "name": "Logic Analyzer 8CH",
