@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-16T16:13:40.328Z",
+  "exportedAt": "2025-11-16T17:29:12.183Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -84,7 +84,7 @@
       "name": "Logic Analyzer 8CH",
       "serial": "SN-0001-LOGICCH8",
       "condition": "working",
-      "holder": "Riyas",
+      "holder": "",
       "id": 9
     },
     {
@@ -1645,6 +1645,86 @@
       "date": "16/11/2025, 9:43:40 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 160
+    },
+    {
+      "itemId": 9,
+      "itemName": "Logic Analyzer 8CH",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "16/11/2025, 9:43:43 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 161
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "16/11/2025, 10:09:43 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 162
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "16/11/2025, 10:09:50 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 163
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "16/11/2025, 10:11:59 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 164
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "16/11/2025, 10:12:40 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 165
+    },
+    {
+      "itemId": 1,
+      "itemName": "SWITCH",
+      "action": "assigned",
+      "from": "9 units",
+      "to": "Riyas (2 units)",
+      "date": "16/11/2025, 10:13:16 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 166
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "16/11/2025, 10:54:19 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 167
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "16/11/2025, 10:54:23 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 168
     }
   ]
 }
