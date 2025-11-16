@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-16T14:57:55.549Z",
+  "exportedAt": "2025-11-16T14:59:37.649Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -1485,6 +1485,26 @@
       "date": "16/11/2025, 8:27:06 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 144
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "16/11/2025, 8:28:01 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 145
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "16/11/2025, 8:28:12 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 146
     }
   ]
 }
