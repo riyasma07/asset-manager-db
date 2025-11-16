@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-16T11:22:05.842Z",
+  "exportedAt": "2025-11-16T11:35:49.776Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -895,6 +895,26 @@
       "date": "16/11/2025, 4:52:05 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 85
+    },
+    {
+      "itemId": 1,
+      "itemName": "SWITCH",
+      "action": "assigned",
+      "from": "30 units",
+      "to": "Riyas (10 units)",
+      "date": "16/11/2025, 4:52:53 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 86
+    },
+    {
+      "itemId": 1,
+      "itemName": "SWITCH",
+      "action": "assigned",
+      "from": "20 units",
+      "to": "Riyas (5 units)",
+      "date": "16/11/2025, 4:57:24 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 87
     }
   ]
 }
