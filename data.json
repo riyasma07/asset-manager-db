@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-16T11:47:10.535Z",
+  "exportedAt": "2025-11-16T11:53:37.770Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -84,7 +84,7 @@
       "name": "Logic Analyzer 8CH",
       "serial": "SN-0001-LOGICCH8",
       "condition": "working",
-      "holder": "Riyas",
+      "holder": "",
       "id": 9
     },
     {
@@ -935,6 +935,26 @@
       "date": "16/11/2025, 5:17:10 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 89
+    },
+    {
+      "itemId": 9,
+      "itemName": "Logic Analyzer 8CH",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "16/11/2025, 5:17:21 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 90
+    },
+    {
+      "itemId": 1,
+      "itemName": "SWITCH",
+      "action": "assigned",
+      "from": "13 units",
+      "to": "Riyas (2 units)",
+      "date": "16/11/2025, 5:18:11 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 91
     }
   ]
 }
