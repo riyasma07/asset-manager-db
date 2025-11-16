@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-16T13:07:30.011Z",
+  "exportedAt": "2025-11-16T13:13:23.023Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -91,7 +91,7 @@
       "name": "FLUKE Multimeter",
       "serial": "62290201",
       "condition": "working",
-      "holder": "Riyas",
+      "holder": "",
       "id": 10
     }
   ],
@@ -1085,6 +1085,56 @@
       "date": "16/11/2025, 6:36:46 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 104
+    },
+    {
+      "itemId": 1,
+      "itemName": "SWITCH",
+      "action": "assigned",
+      "from": "20 units",
+      "to": "Riyas (5 units)",
+      "date": "16/11/2025, 6:37:36 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 105
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "16/11/2025, 6:37:49 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 106
+    },
+    {
+      "itemId": 10,
+      "itemName": "FLUKE Multimeter",
+      "action": "returned",
+      "from": "",
+      "to": "Available",
+      "date": "16/11/2025, 6:39:02 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 107
+    },
+    {
+      "itemId": 9,
+      "itemName": "Logic Analyzer 8CH",
+      "action": "returned",
+      "from": "",
+      "to": "Available",
+      "date": "16/11/2025, 6:40:19 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 108
+    },
+    {
+      "itemId": 9,
+      "itemName": "Logic Analyzer 8CH",
+      "action": "returned",
+      "from": "",
+      "to": "Available",
+      "date": "16/11/2025, 6:40:28 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 109
     }
   ]
 }
