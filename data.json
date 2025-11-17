@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-17T16:11:45.812Z",
+  "exportedAt": "2025-11-17T16:12:57.549Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -34,6 +34,16 @@
       "id": 4
     },
     {
+      "name": "Riyas",
+      "email": "riyaseee027@gmail.com",
+      "password": "aG9nd2FydHNAMTIz",
+      "mobile": "",
+      "designation": "",
+      "department": "",
+      "isAdmin": false,
+      "id": 13
+    },
+    {
       "name": "Ranjith Kumar",
       "email": "rk_ext@royalenfield.com",
       "password": "OTA4MDEyMDE1Nw==",
@@ -42,6 +52,16 @@
       "department": "EV - VCU",
       "isAdmin": false,
       "id": 14
+    },
+    {
+      "name": "Test_Profile",
+      "email": "riyaseee027@gmail.com",
+      "password": "aG9nd2FydHNAMTIz",
+      "mobile": "",
+      "designation": "",
+      "department": "",
+      "isAdmin": false,
+      "id": 15
     }
   ],
   "items": [
