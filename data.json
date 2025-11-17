@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-17T04:53:42.588Z",
+  "exportedAt": "2025-11-17T04:54:38.849Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -56,7 +56,7 @@
       "name": "Soldering Station (SOLDRON 936)",
       "serial": "SL936000651",
       "condition": "working",
-      "holder": "Baskaran Manoharan",
+      "holder": "",
       "id": 3
     },
     {
@@ -1745,6 +1745,16 @@
       "date": "16/11/2025, 11:11:51 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 170
+    },
+    {
+      "itemId": 3,
+      "itemName": "Soldering Station (SOLDRON 936)",
+      "action": "returned",
+      "from": "Baskaran Manoharan",
+      "to": "Available",
+      "date": "17/11/2025, 10:24:38 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 171
     }
   ]
 }
