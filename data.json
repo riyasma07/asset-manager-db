@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-17T04:55:38.733Z",
+  "exportedAt": "2025-11-17T04:58:15.400Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -93,6 +93,13 @@
       "condition": "working",
       "holder": "",
       "id": 10
+    },
+    {
+      "name": "S-BUS CAN (Sloki)",
+      "serial": "sCAN-C000-270623-A035",
+      "condition": "working",
+      "holder": "",
+      "id": 11
     }
   ],
   "history": [
