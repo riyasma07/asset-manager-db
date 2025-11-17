@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-17T10:15:06.487Z",
+  "exportedAt": "2025-11-17T10:16:02.233Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -42,6 +42,16 @@
       "department": "",
       "isAdmin": false,
       "id": 13
+    },
+    {
+      "name": "Ranjith Kumar",
+      "email": "rk_ext@royalenfield.com",
+      "password": "OTA4MDEyMDE1Nw==",
+      "mobile": "9080120157",
+      "designation": "Software Developer",
+      "department": "EV - VCU",
+      "isAdmin": false,
+      "id": 14
     }
   ],
   "items": [
@@ -1789,6 +1799,16 @@
       "date": "17/11/2025, 1:18:18 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 173
+    },
+    {
+      "itemId": 2,
+      "itemName": "9V Battery (Hi-Watt)",
+      "action": "assigned",
+      "from": "17 units",
+      "to": "Ranjith Kumar (1 units)",
+      "date": "17/11/2025, 3:45:55 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 174
     }
   ]
 }
