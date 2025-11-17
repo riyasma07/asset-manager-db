@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-17T16:13:57.347Z",
+  "exportedAt": "2025-11-17T16:15:53.698Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -42,16 +42,6 @@
       "department": "EV - VCU",
       "isAdmin": false,
       "id": 14
-    },
-    {
-      "name": "Test_Profile",
-      "email": "riyaseee027@gmail.com",
-      "password": "aG9nd2FydHNAMTIz",
-      "mobile": "",
-      "designation": "",
-      "department": "",
-      "isAdmin": false,
-      "id": 15
     }
   ],
   "items": [
