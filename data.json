@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-19T17:25:45.474Z",
+  "exportedAt": "2025-11-19T17:26:49.958Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -77,7 +77,7 @@
       "name": "PE Micro Debugger",
       "serial": "2UUSHOPE2417TE",
       "condition": "working",
-      "holder": "",
+      "holder": "MOHAMED RIYASUDEEN D",
       "id": 7
     },
     {
@@ -189,36 +189,5 @@
       "id": 13
     }
   ],
-  "history": [
-    {
-      "itemId": 7,
-      "itemName": "PE Micro Debugger",
-      "action": "returned",
-      "from": "MOHAMED RIYASUDEEN D",
-      "to": "Available",
-      "date": "19/11/2025, 10:55:08 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 1
-    },
-    {
-      "itemId": 7,
-      "itemName": "PE Micro Debugger",
-      "action": "returned",
-      "from": "Prasanth Chandiran",
-      "to": "Available",
-      "date": "19/11/2025, 10:52:31 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 184
-    },
-    {
-      "itemId": 7,
-      "itemName": "PE Micro Debugger",
-      "action": "assigned",
-      "from": "Available",
-      "to": "MOHAMED RIYASUDEEN D",
-      "date": "19/11/2025, 10:52:39 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 185
-    }
-  ]
+  "history": []
 }
