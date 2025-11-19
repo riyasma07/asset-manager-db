@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-19T17:29:40.692Z",
+  "exportedAt": "2025-11-19T17:31:19.896Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -189,16 +189,5 @@
       "id": 13
     }
   ],
-  "history": [
-    {
-      "itemId": 7,
-      "itemName": "PE Micro Debugger",
-      "action": "returned",
-      "from": "MOHAMED RIYASUDEEN D",
-      "to": "Available",
-      "date": "19/11/2025, 10:58:43 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 186
-    }
-  ]
+  "history": []
 }
