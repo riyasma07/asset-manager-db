@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-17T18:24:24.001Z",
+  "exportedAt": "2025-11-19T17:19:06.074Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -107,6 +107,86 @@
       "condition": "working",
       "holder": "",
       "id": 12
+    }
+  ],
+  "consumables": [
+    {
+      "name": "DC Fan (5V)",
+      "partNumber": "NA",
+      "quantity": 6,
+      "id": 1
+    },
+    {
+      "name": "9v Battery (Hi-Tech)",
+      "partNumber": "6F22",
+      "quantity": 16,
+      "id": 2
+    },
+    {
+      "name": "DB9 Female (Blue)",
+      "partNumber": "NA",
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "name": "DB9 Cover",
+      "partNumber": "NA",
+      "quantity": 2,
+      "id": 4
+    },
+    {
+      "name": "BNC Connector (male)",
+      "partNumber": "NA",
+      "quantity": 4,
+      "id": 5
+    },
+    {
+      "name": "DB9 Right Angle (male)",
+      "partNumber": "NA",
+      "quantity": 7,
+      "id": 6
+    },
+    {
+      "name": "Manual 4-way DIP switch",
+      "partNumber": "BD04",
+      "quantity": 18,
+      "id": 7
+    },
+    {
+      "name": "Manual 10 way DIP switch",
+      "partNumber": "BD10",
+      "quantity": 7,
+      "id": 8
+    },
+    {
+      "name": "Manual 2-way DIP switch",
+      "partNumber": "BD02",
+      "quantity": 4,
+      "id": 9
+    },
+    {
+      "name": "Manual 8-way DIP switch",
+      "partNumber": "BD08",
+      "quantity": 5,
+      "id": 10
+    },
+    {
+      "name": "Rocker Switch SPST (small)",
+      "partNumber": "KCD1-B101",
+      "quantity": 10,
+      "id": 11
+    },
+    {
+      "name": "Rocker Switch DPDT (Big)",
+      "partNumber": "KCD4 16A",
+      "quantity": 1,
+      "id": 12
+    },
+    {
+      "name": "120 Ohm Resistor, 1/4 W, 5%",
+      "partNumber": "NA",
+      "quantity": 50,
+      "id": 13
     }
   ],
   "history": []
