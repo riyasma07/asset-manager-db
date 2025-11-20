@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-20T19:04:09.042Z",
+  "exportedAt": "2025-11-20T19:05:29.287Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -213,26 +213,5 @@
       "id": 17
     }
   ],
-  "history": [
-    {
-      "itemId": 17,
-      "itemName": "DC Jack Wired (Female)",
-      "action": "qty_added",
-      "from": 3,
-      "to": 4,
-      "date": "21/11/2025, 12:33:37 am",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 179
-    },
-    {
-      "itemId": 17,
-      "itemName": "DC Jack Wired (Female)",
-      "action": "assigned",
-      "from": "4 units",
-      "to": "MOHAMED RIYASUDEEN D (1 units)",
-      "date": "21/11/2025, 12:33:50 am",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 180
-    }
-  ]
+  "history": []
 }
