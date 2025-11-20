@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-20T11:02:20.712Z",
+  "exportedAt": "2025-11-20T11:07:20.282Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -187,6 +187,18 @@
       "partNumber": "NA",
       "quantity": 50,
       "id": 13
+    },
+    {
+      "name": "Coin Cell maxell (Rechargeable)",
+      "partNumber": "ML2032",
+      "quantity": 3,
+      "id": 14
+    },
+    {
+      "name": "Coin Cell - EVE",
+      "partNumber": "CR2032",
+      "quantity": 4,
+      "id": 15
     }
   ],
   "history": []
