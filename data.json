@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-20T11:07:20.282Z",
+  "exportedAt": "2025-11-20T11:12:21.142Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -199,6 +199,18 @@
       "partNumber": "CR2032",
       "quantity": 4,
       "id": 15
+    },
+    {
+      "name": "Led Holder (5 mm)",
+      "partNumber": "60215BT",
+      "quantity": 5,
+      "id": 16
+    },
+    {
+      "name": "DC Jack Wired (Female)",
+      "partNumber": "NA",
+      "quantity": 3,
+      "id": 17
     }
   ],
   "history": []
