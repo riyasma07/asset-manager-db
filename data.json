@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-20T17:58:07.459Z",
+  "exportedAt": "2025-11-20T17:59:23.624Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -213,16 +213,5 @@
       "id": 17
     }
   ],
-  "history": [
-    {
-      "itemId": 14,
-      "itemName": "Coin Cell maxell (Rechargeable)",
-      "action": "assigned",
-      "from": "3 units",
-      "to": "Baskaran Manoharan (1 units)",
-      "date": "20/11/2025, 5:53:11 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 178
-    }
-  ]
+  "history": []
 }
