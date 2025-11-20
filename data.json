@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-20T12:21:04.243Z",
+  "exportedAt": "2025-11-20T12:23:11.946Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -191,7 +191,7 @@
     {
       "name": "Coin Cell maxell (Rechargeable)",
       "partNumber": "ML2032",
-      "quantity": 3,
+      "quantity": 2,
       "id": 14
     },
     {
@@ -213,5 +213,16 @@
       "id": 17
     }
   ],
-  "history": []
+  "history": [
+    {
+      "itemId": 14,
+      "itemName": "Coin Cell maxell (Rechargeable)",
+      "action": "assigned",
+      "from": "3 units",
+      "to": "Baskaran Manoharan (1 units)",
+      "date": "20/11/2025, 5:53:11 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 178
+    }
+  ]
 }
