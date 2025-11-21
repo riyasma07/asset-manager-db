@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-21T05:24:25.126Z",
+  "exportedAt": "2025-11-21T05:26:16.243Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -207,11 +207,28 @@
       "id": 16
     },
     {
-      "name": "DC Jack Wired (Female)",
+      "name": "DC Jack Female (Wired)",
       "partNumber": "NA",
-      "quantity": 3,
+      "quantity": 5,
       "id": 17
+    },
+    {
+      "name": "DC Jack Male (Wired)",
+      "partNumber": "NA",
+      "quantity": 1,
+      "id": 18
     }
   ],
-  "history": []
+  "history": [
+    {
+      "itemId": 17,
+      "itemName": "DC Jack Wired (Female)",
+      "action": "qty_added",
+      "from": 3,
+      "to": 5,
+      "date": "21/11/2025, 10:54:41 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 1
+    }
+  ]
 }
