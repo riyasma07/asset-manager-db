@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-21T04:26:37.050Z",
+  "exportedAt": "2025-11-21T04:28:47.647Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -12,16 +12,6 @@
       "department": "Software",
       "isAdmin": true,
       "id": 1
-    },
-    {
-      "name": "Baskaran Manoharan",
-      "email": "bass.mano@royalenfield.com",
-      "password": "ZTAxMDk3Mg==",
-      "mobile": "",
-      "designation": "",
-      "department": "",
-      "isAdmin": false,
-      "id": 3
     },
     {
       "name": "Prasanth Chandiran",
