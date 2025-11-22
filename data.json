@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T19:10:46.498Z",
+  "exportedAt": "2025-11-22T19:13:12.576Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -113,22 +113,26 @@
     {
       "name": "DC Fan (5V)",
       "partNumber": "NA",
-      "quantity": 4,
+      "quantity": 6,
       "id": 1
     },
     {
-      "name": "9V 6F22M Hi-Watt Non rechargeable heavy-duty battery",
-      "partNumber": "ES - 932FK",
+      "name": "9v Battery (Hi-Tech)",
+      "partNumber": "6F22",
       "quantity": 16,
-      "id": 2,
-      "link": "https://electronicspices.com/product/9v-6f22m-hi-watt-non-rechargeable-heavy-duty-battery-box-of-10-batteries"
+      "id": 2
+    },
+    {
+      "name": "DB9 Female (Blue)",
+      "partNumber": "NA",
+      "quantity": 1,
+      "id": 3
     },
     {
       "name": "DB9 Cover",
-      "partNumber": "E - 20518DO",
+      "partNumber": "NA",
       "quantity": 2,
-      "id": 4,
-      "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connector-with-backshell-pack-of-5pcs"
+      "id": 4
     },
     {
       "name": "BNC Connector (male)",
