@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T10:54:44.422Z",
+  "exportedAt": "2025-11-22T10:55:43.084Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -226,13 +226,13 @@
     },
     {
       "name": "DC Jack Female 5.5mm x 2.1mm (PCB Panel Mount)",
-      "partNumber": "58943DP",
+      "partNumber": "ES - 58943DP",
       "quantity": 7,
       "id": 20
     },
     {
       "name": "DC Socket Female 5.5mm x 2.1mm (PCB Mount)",
-      "partNumber": "121507",
+      "partNumber": "Robu - 121507",
       "quantity": 5,
       "id": 21
     }
