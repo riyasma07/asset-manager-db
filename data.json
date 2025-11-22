@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T17:32:12.392Z",
+  "exportedAt": "2025-11-22T17:33:20.316Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -322,5 +322,26 @@
       "id": 35
     }
   ],
-  "history": []
+  "history": [
+    {
+      "itemId": 17,
+      "itemName": "DC Jack Wired (Female)",
+      "action": "qty_added",
+      "from": 3,
+      "to": 5,
+      "date": "21/11/2025, 10:54:41 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 1
+    },
+    {
+      "itemId": 1,
+      "itemName": "5V DC Fan",
+      "action": "assigned",
+      "from": "6 units",
+      "to": "MOHAMED RIYASUDEEN D (2 units)",
+      "date": "22/11/2025, 4:52:43 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 2
+    }
+  ]
 }
