@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T10:57:38.957Z",
+  "exportedAt": "2025-11-22T11:02:39.257Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -208,13 +208,13 @@
     },
     {
       "name": "DC Jack Female (Wired)",
-      "partNumber": "Robu - 699534",
+      "partNumber": "ROBU - 699534",
       "quantity": 5,
       "id": 17
     },
     {
       "name": "DC Jack Male (Wired)",
-      "partNumber": "Robu - 699534",
+      "partNumber": "ROBU - 699534",
       "quantity": 1,
       "id": 18
     },
@@ -232,9 +232,15 @@
     },
     {
       "name": "DC Socket Female 5.5mm x 2.1mm (PCB Mount)",
-      "partNumber": "Robu - 121507",
+      "partNumber": "ROBU - 121507",
       "quantity": 5,
       "id": 21
+    },
+    {
+      "name": "PCB Prototype Board 2.5mm Hole Pitch 5x7 cm (Single-Sided)",
+      "partNumber": "ROBU - 1031027",
+      "quantity": 4,
+      "id": 22
     }
   ],
   "history": [
