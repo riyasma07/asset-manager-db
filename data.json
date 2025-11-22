@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:50:44.145Z",
+  "exportedAt": "2025-11-22T18:51:46.888Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -122,13 +122,6 @@
       "quantity": 16,
       "id": 2,
       "link": "https://electronicspices.com/product/9v-6f22m-hi-watt-non-rechargeable-heavy-duty-battery-box-of-10-batteries"
-    },
-    {
-      "name": "DE-9 9 through hole D-sub miniature female connectors (DB9)",
-      "partNumber": "ES - 20518DO",
-      "quantity": 1,
-      "id": 3,
-      "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connector-with-backshell-pack-of-5pcs"
     },
     {
       "name": "DB9 Cover",
@@ -525,6 +518,16 @@
       "date": "22/11/2025, 11:19:51 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 181
+    },
+    {
+      "itemId": 3,
+      "itemName": "DE-9 9 through hole D-sub miniature female connectors (DB9)",
+      "action": "qty_added",
+      "from": 1,
+      "to": 11,
+      "date": "23/11/2025, 12:21:11 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 182
     }
   ]
 }
