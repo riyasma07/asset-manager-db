@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:21:06.915Z",
+  "exportedAt": "2025-11-22T18:22:25.261Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -182,13 +182,15 @@
       "name": "KCD1-B101 6A 250V AC red color 2 pin SPST small plastic rocker switch",
       "partNumber": "ES - 612GO",
       "quantity": 10,
-      "id": 11
+      "id": 11,
+      "link": "https://electronicspices.com/product/kcd1-b101-6a-250v-ac-red-color-2-pin-spst-small-plastic-rocker-switch-pack-of-5pcs"
     },
     {
-      "name": "Rocker Switch DPDT (Big)",
-      "partNumber": "KCD4 16A",
+      "name": "KCD4 16A 250V AC red color 4 pin DPDT heavy duty plastic rocker switch",
+      "partNumber": "ES - 7068GO",
       "quantity": 1,
-      "id": 12
+      "id": 12,
+      "link": "https://electronicspices.com/product/kcd4-16a-250v-ac-red-color-4-pin-dpdt-heavy-duty-plastic-rocker-switch-pack-of-2pcs"
     },
     {
       "name": "120 Ohm Resistor, 1/4 W, 5%",
@@ -217,7 +219,7 @@
     },
     {
       "name": "DC Jack Wired (Female)",
-      "partNumber": "NA",
+      "partNumber": "ROBU - 699534",
       "quantity": 3,
       "id": 17
     },
