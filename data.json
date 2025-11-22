@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T17:29:22.559Z",
+  "exportedAt": "2025-11-22T17:30:21.286Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -300,7 +300,8 @@
       "name": "12V 1 channel relay module with light coupling",
       "partNumber": "ES - 203GL",
       "quantity": 2,
-      "id": 32
+      "id": 32,
+      "link": "https://electronicspices.com/product/12v-1-channel-relay-module-with-light-coupling"
     },
     {
       "name": "8 Pin DIP IC Socket Base Power Supply Adaptor",
