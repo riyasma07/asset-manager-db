@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T10:52:38.951Z",
+  "exportedAt": "2025-11-22T10:54:44.422Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -231,8 +231,8 @@
       "id": 20
     },
     {
-      "name": "DC Jack Female 3.5mm (PCB Panel Mount)",
-      "partNumber": "ES - 60684DP",
+      "name": "DC Socket Female 5.5mm x 2.1mm (PCB Mount)",
+      "partNumber": "121507",
       "quantity": 5,
       "id": 21
     }
