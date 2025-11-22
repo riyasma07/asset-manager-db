@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T17:45:17.567Z",
+  "exportedAt": "2025-11-22T17:47:50.772Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -307,13 +307,15 @@
       "name": "8 Pin DIP IC Socket Base Power Supply Adaptor",
       "partNumber": "ES - LX8536A1",
       "quantity": 4,
-      "id": 33
+      "id": 33,
+      "link": "https://electronicspices.com/?s=LX8536A1&product_cat="
     },
     {
       "name": "9v Battery Connector",
       "partNumber": "NA",
       "quantity": 9,
-      "id": 34
+      "id": 34,
+      "link": "https://electronicspices.com/product/9v-battery-clip-connector-pack-of-10pcs"
     },
     {
       "name": "1N5822 3A 500V Reverse voltage diode",
