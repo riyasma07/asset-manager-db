@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T10:37:39.248Z",
+  "exportedAt": "2025-11-22T10:41:19.904Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -225,8 +225,8 @@
       "id": 19
     },
     {
-      "name": "DC Jack Female (Panel Mount)",
-      "partNumber": "NA",
+      "name": "DC Jack Female 5.5mm x 2.1mm (PCB Panel Mount)",
+      "partNumber": "58943DP",
       "quantity": 7,
       "id": 20
     },
