@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:14:29.146Z",
+  "exportedAt": "2025-11-22T18:15:58.252Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -125,15 +125,17 @@
     },
     {
       "name": "DB9 Female (Blue)",
-      "partNumber": "NA",
+      "partNumber": "ES - 20518DO",
       "quantity": 1,
-      "id": 3
+      "id": 3,
+      "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connector-with-backshell-pack-of-5pcs"
     },
     {
       "name": "DB9 Cover",
-      "partNumber": "NA",
+      "partNumber": "E - 20518DO",
       "quantity": 2,
-      "id": 4
+      "id": 4,
+      "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connector-with-backshell-pack-of-5pcs"
     },
     {
       "name": "BNC Connector (male)",
@@ -142,7 +144,7 @@
       "id": 5
     },
     {
-      "name": "DB9 Right Angle (male)",
+      "name": "DB9 Male Right Angle Connector",
       "partNumber": "NA",
       "quantity": 7,
       "id": 6
