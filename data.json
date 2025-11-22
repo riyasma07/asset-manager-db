@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:41:26.929Z",
+  "exportedAt": "2025-11-22T18:42:46.794Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -444,6 +444,20 @@
       "quantity": 50,
       "link": "https://electronicspices.com/product/3-3k-ohm-0603-high-power-smd-thick-film-chip-resistor-pack-of-50",
       "id": 49
+    },
+    {
+      "name": "LM2596 DC to DC Buck Converter Adjustable Step down power supply module",
+      "partNumber": "ES - 774KK",
+      "quantity": 2,
+      "link": "https://electronicspices.com/product/lm2596-dc-to-dc-buck-converter-adjustable-step-down-power-supply-module-pack-of-1pcs",
+      "id": 50
+    },
+    {
+      "name": "SS12F15G5 0.3A 30V SPDT 3 pin metal body panel mount plastic handle slide switch",
+      "partNumber": "ES - 11578GZ",
+      "quantity": 5,
+      "link": "https://electronicspices.com/product/ss12f15g5-0-3a-30v-spdt-3-pin-metal-body-panel-mount-plastic-handle-slide-switch-pack-of-5pcs",
+      "id": 51
     }
   ],
   "history": [
