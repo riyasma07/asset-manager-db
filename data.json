@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T17:59:29.663Z",
+  "exportedAt": "2025-11-22T18:01:54.244Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -38,8 +38,8 @@
       "email": "bass.mano@royalenfield.com",
       "password": "OTkxNjM5MzE5Mw==",
       "mobile": "9916393193",
-      "designation": "",
-      "department": "",
+      "designation": "Hardware Engineer - Lead",
+      "department": "EV BMS Hardware",
       "isAdmin": false,
       "id": 18
     }
