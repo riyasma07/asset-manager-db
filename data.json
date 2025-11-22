@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:33:15.491Z",
+  "exportedAt": "2025-11-22T18:35:03.183Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -381,6 +381,13 @@
       "quantity": 23,
       "link": "https://robu.in/product/3296w-100k-ohm-trimpot-trimmer-potentiometer-pack-of-5/",
       "id": 40
+    },
+    {
+      "name": "40mm Insulated crocodile alligator clip or test clamps (Black)",
+      "partNumber": "ES - 482DM",
+      "quantity": 10,
+      "link": "https://electronicspices.com/product/40mm-insulated-crocodile-alligator-clip-or-test-clamps-pack-of-20-pair",
+      "id": 41
     }
   ],
   "history": [
