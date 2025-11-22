@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:51:46.888Z",
+  "exportedAt": "2025-11-22T18:52:42.670Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -481,11 +481,18 @@
       "id": 55
     },
     {
-      "name": "DE-9 9 pin D-sub miniature male connector with cover",
+      "name": "DE-9 9 pin D-sub miniature male connector (DB9)",
       "partNumber": "ES - 13718DO",
       "quantity": 5,
       "link": "https://electronicspices.com/product/de-9-9-pin-d-sub-miniature-male-connector-with-backshell-pack-of-5pcs",
       "id": 56
+    },
+    {
+      "name": "DE-9 9 through hole D-sub miniature female connectors (DB9)",
+      "partNumber": "ES - 20519DO",
+      "quantity": 10,
+      "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connectors-with-backshell-pack-of-10pcs",
+      "id": 57
     }
   ],
   "history": [
