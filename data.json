@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T11:24:19.532Z",
+  "exportedAt": "2025-11-22T11:27:39.258Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -289,6 +289,18 @@
       "partNumber": "RQA40X40X10HSL",
       "quantity": 2,
       "id": 30
+    },
+    {
+      "name": "XL6019 DC-DC 5A Adjustable Boost Power Supply Module",
+      "partNumber": "ROBU - 1150801",
+      "quantity": 3,
+      "id": 31
+    },
+    {
+      "name": "12V 1 channel relay module with light coupling",
+      "partNumber": "ES - 203GL",
+      "quantity": 2,
+      "id": 32
     }
   ],
   "history": [
