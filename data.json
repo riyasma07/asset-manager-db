@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T17:27:39.332Z",
+  "exportedAt": "2025-11-22T17:29:22.559Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -111,9 +111,9 @@
   ],
   "consumables": [
     {
-      "name": "5V DC Fan (SUNON)",
-      "partNumber": "ME40100V1",
-      "quantity": 4,
+      "name": "DC Fan (5V)",
+      "partNumber": "NA",
+      "quantity": 6,
       "id": 1
     },
     {
@@ -202,14 +202,14 @@
     },
     {
       "name": "Led Holder (5 mm)",
-      "partNumber": "ES - 60215BT",
+      "partNumber": "60215BT",
       "quantity": 5,
       "id": 16
     },
     {
-      "name": "DC Jack Female (Wired)",
-      "partNumber": "ROBU - 699534",
-      "quantity": 5,
+      "name": "DC Jack Wired (Female)",
+      "partNumber": "NA",
+      "quantity": 3,
       "id": 17
     },
     {
@@ -321,26 +321,5 @@
       "id": 35
     }
   ],
-  "history": [
-    {
-      "itemId": 17,
-      "itemName": "DC Jack Wired (Female)",
-      "action": "qty_added",
-      "from": 3,
-      "to": 5,
-      "date": "21/11/2025, 10:54:41 am",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 1
-    },
-    {
-      "itemId": 1,
-      "itemName": "5V DC Fan",
-      "action": "assigned",
-      "from": "6 units",
-      "to": "MOHAMED RIYASUDEEN D (2 units)",
-      "date": "22/11/2025, 4:52:43 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 2
-    }
-  ]
+  "history": []
 }
