@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T06:52:51.674Z",
+  "exportedAt": "2025-11-22T06:57:45.818Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -217,6 +217,12 @@
       "partNumber": "NA",
       "quantity": 1,
       "id": 18
+    },
+    {
+      "name": "Masking Tape (Big)",
+      "partNumber": "NA",
+      "quantity": 12,
+      "id": 19
     }
   ],
   "history": [
