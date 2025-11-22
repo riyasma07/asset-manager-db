@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:35:03.183Z",
+  "exportedAt": "2025-11-22T18:36:31.997Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -388,6 +388,20 @@
       "quantity": 10,
       "link": "https://electronicspices.com/product/40mm-insulated-crocodile-alligator-clip-or-test-clamps-pack-of-20-pair",
       "id": 41
+    },
+    {
+      "name": "40mm Insulated crocodile alligator clip or test clamps (Red)",
+      "partNumber": "482DM",
+      "quantity": 10,
+      "link": "https://electronicspices.com/product/40mm-insulated-crocodile-alligator-clip-or-test-clamps-pack-of-20-pair",
+      "id": 42
+    },
+    {
+      "name": "10A red color 22-16 wire gauge bullet crimp connector (Male)",
+      "partNumber": "9736DL",
+      "quantity": 10,
+      "link": "https://electronicspices.com/product/male-and-female-pair-of-10a-red-color-22-16-wire-gauge-bullet-crimp-connector-pack-of-20-pair-mpd1-250-and-frd1-250",
+      "id": 43
     }
   ],
   "history": [
