@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:07:54.849Z",
+  "exportedAt": "2025-11-22T18:09:11.296Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -259,19 +259,22 @@
       "name": "XT60 Male RC Battery Connector",
       "partNumber": "ES - MI8544A",
       "quantity": 2,
-      "id": 25
+      "id": 25,
+      "link": "https://electronicspices.com/product/xt60-male-rc-battery-connector-pack-of-5"
     },
     {
       "name": "Banana Connector Male 4mm 15A (Red)",
       "partNumber": "ES -12188CR",
       "quantity": 6,
-      "id": 26
+      "id": 26,
+      "link": "https://electronicspices.com/product/4mm-15a-red-color-male-plug-banana-connector-pack-of-5pcs"
     },
     {
       "name": "Banana Connector Male 4mm 15A (Black)",
       "partNumber": "ES - 12191CR",
       "quantity": 9,
-      "id": 27
+      "id": 27,
+      "link": "https://electronicspices.com/product/4mm-15a-black-color-male-plug-banana-connector-pack-of-5pcs"
     },
     {
       "name": "12-18V 5MM Red LED Metal Indicator Light with 20CM Cable",
