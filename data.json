@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:49:02.485Z",
+  "exportedAt": "2025-11-22T18:50:44.145Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -124,7 +124,7 @@
       "link": "https://electronicspices.com/product/9v-6f22m-hi-watt-non-rechargeable-heavy-duty-battery-box-of-10-batteries"
     },
     {
-      "name": "DB9 Female (Blue)",
+      "name": "DE-9 9 through hole D-sub miniature female connectors (DB9)",
       "partNumber": "ES - 20518DO",
       "quantity": 1,
       "id": 3,
@@ -482,13 +482,13 @@
     },
     {
       "name": "2 line Electrical cable quick splice push lock wire connector",
-      "partNumber": "56576HV",
+      "partNumber": "ES - 56576HV",
       "quantity": 50,
       "link": "https://electronicspices.com/product/2-line-electrical-cable-quick-splice-push-lock-wire-connector-pack-of-50pcs",
       "id": 55
     },
     {
-      "name": "DE-9 9 pin D-sub miniature male connector with backshell pack",
+      "name": "DE-9 9 pin D-sub miniature male connector with cover",
       "partNumber": "ES - 13718DO",
       "quantity": 5,
       "link": "https://electronicspices.com/product/de-9-9-pin-d-sub-miniature-male-connector-with-backshell-pack-of-5pcs",
