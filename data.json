@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:04:17.945Z",
+  "exportedAt": "2025-11-22T18:07:54.849Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -277,7 +277,8 @@
       "name": "12-18V 5MM Red LED Metal Indicator Light with 20CM Cable",
       "partNumber": "ROBU - 1320696",
       "quantity": 4,
-      "id": 28
+      "id": 28,
+      "link": "https://robu.in/product/12-18v-5mm-red-led-metal-indicator-light-with-20cm-cable-pack-of-5/"
     },
     {
       "name": "12 Volts DC Fan",
