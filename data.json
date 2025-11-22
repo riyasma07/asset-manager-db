@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T11:32:39.262Z",
+  "exportedAt": "2025-11-22T11:37:39.080Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -313,6 +313,12 @@
       "partNumber": "NA",
       "quantity": 9,
       "id": 34
+    },
+    {
+      "name": "1N5822 3A 500V Reverse voltage diode",
+      "partNumber": "ES - 6417DT",
+      "quantity": 12,
+      "id": 35
     }
   ],
   "history": [
