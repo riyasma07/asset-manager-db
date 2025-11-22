@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:52:42.670Z",
+  "exportedAt": "2025-11-22T18:55:48.453Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -111,24 +111,28 @@
   ],
   "consumables": [
     {
-      "name": "DC Fan (5V)",
-      "partNumber": "NA",
+      "name": "5V DC Fan (SUNON)",
+      "partNumber": "ME40100V1",
       "quantity": 4,
       "id": 1
     },
     {
-      "name": "9V 6F22M Hi-Watt Non rechargeable heavy-duty battery",
-      "partNumber": "ES - 932FK",
+      "name": "9v Battery (Hi-Tech)",
+      "partNumber": "6F22",
       "quantity": 16,
-      "id": 2,
-      "link": "https://electronicspices.com/product/9v-6f22m-hi-watt-non-rechargeable-heavy-duty-battery-box-of-10-batteries"
+      "id": 2
+    },
+    {
+      "name": "DB9 Female (Blue)",
+      "partNumber": "NA",
+      "quantity": 1,
+      "id": 3
     },
     {
       "name": "DB9 Cover",
-      "partNumber": "E - 20518DO",
+      "partNumber": "NA",
       "quantity": 2,
-      "id": 4,
-      "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connector-with-backshell-pack-of-5pcs"
+      "id": 4
     },
     {
       "name": "BNC Connector (male)",
@@ -137,53 +141,46 @@
       "id": 5
     },
     {
-      "name": "DB9 Male Right Angle Connector",
-      "partNumber": "ROBU - 520512",
+      "name": "DB9 Right Angle (male)",
+      "partNumber": "NA",
       "quantity": 7,
-      "id": 6,
-      "link": "https://robu.in/product/db9-male-right-angle-connector-pack-of-5/"
+      "id": 6
     },
     {
-      "name": "Manual 4 way DIP switch standard profiles BD04",
-      "partNumber": "ES - 7510DV",
+      "name": "Manual 4-way DIP switch",
+      "partNumber": "BD04",
       "quantity": 18,
-      "id": 7,
-      "link": "https://electronicspices.com/product/manual-4-way-dip-switch-standard-profiles-bd04-pack-of-10pcs"
+      "id": 7
     },
     {
-      "name": "Manual 10 way DIP switch standard profiles BD10",
-      "partNumber": "ES - 7528DV",
+      "name": "Manual 10 way DIP switch",
+      "partNumber": "BD10",
       "quantity": 7,
-      "id": 8,
-      "link": "https://electronicspices.com/product/manual-10-way-dip-switch-standard-profiles-bd10-pack-of-10pcs"
+      "id": 8
     },
     {
-      "name": " Manual 2 way DIP switch standard profile BD02",
-      "partNumber": "ES - 7503DV",
+      "name": "Manual 2-way DIP switch",
+      "partNumber": "BD02",
       "quantity": 4,
-      "id": 9,
-      "link": "https://electronicspices.com/product/manual-2-way-dip-switch-standard-profile-bd02-pack-of-5pcs"
+      "id": 9
     },
     {
-      "name": "Manual 8 way DIP switch standard profiles BD08",
-      "partNumber": "ES - 7522DV",
+      "name": "Manual 8-way DIP switch",
+      "partNumber": "BD08",
       "quantity": 5,
-      "id": 10,
-      "link": "https://electronicspices.com/product/manual-8-way-dip-switch-standard-profiles-bd08-pack-of-10pcs"
+      "id": 10
     },
     {
-      "name": "KCD1-B101 6A 250V AC red color 2 pin SPST small plastic rocker switch",
-      "partNumber": "ES - 612GO",
+      "name": "Rocker Switch SPST (small)",
+      "partNumber": "KCD1-B101",
       "quantity": 10,
-      "id": 11,
-      "link": "https://electronicspices.com/product/kcd1-b101-6a-250v-ac-red-color-2-pin-spst-small-plastic-rocker-switch-pack-of-5pcs"
+      "id": 11
     },
     {
-      "name": "KCD4 16A 250V AC red color 4 pin DPDT heavy duty plastic rocker switch",
-      "partNumber": "ES - 7068GO",
+      "name": "Rocker Switch DPDT (Big)",
+      "partNumber": "KCD4 16A",
       "quantity": 1,
-      "id": 12,
-      "link": "https://electronicspices.com/product/kcd4-16a-250v-ac-red-color-4-pin-dpdt-heavy-duty-plastic-rocker-switch-pack-of-2pcs"
+      "id": 12
     },
     {
       "name": "120 Ohm Resistor, 1/4 W, 5%",
@@ -207,22 +204,19 @@
       "name": "Led Holder (5 mm)",
       "partNumber": "ES - 60215BT",
       "quantity": 5,
-      "id": 16,
-      "link": "https://electronicspices.com/product/5mm-metal-bulb-holder-led-light-mounting-holder-pack-of-10pcs"
+      "id": 16
     },
     {
-      "name": "DC Jack Wired (Female)",
+      "name": "DC Jack Female (Wired)",
       "partNumber": "ROBU - 699534",
-      "quantity": 3,
-      "id": 17,
-      "link": "https://robu.in/product/dc-jack-connector-with-wire/"
+      "quantity": 5,
+      "id": 17
     },
     {
       "name": "DC Jack Male (Wired)",
       "partNumber": "ROBU - 699534",
       "quantity": 1,
-      "id": 18,
-      "link": "https://robu.in/product/dc-jack-connector-with-wire/"
+      "id": 18
     },
     {
       "name": "Masking Tape (Big)",
@@ -234,64 +228,55 @@
       "name": "DC Jack Female 5.5mm x 2.1mm (PCB Panel Mount)",
       "partNumber": "ES - 58943DP",
       "quantity": 7,
-      "id": 20,
-      "link": "https://electronicspices.com/product/dc-099-5-5mm-x-2-1mm-female-jacks-3-pin-pcb-panel-mount-dc-power-connectors-with-cover-pack-of-5pcs"
+      "id": 20
     },
     {
       "name": "DC Socket Female 5.5mm x 2.1mm (PCB Mount)",
       "partNumber": "ROBU - 121507",
       "quantity": 5,
-      "id": 21,
-      "link": "https://robu.in/product/dc-005-female-dc-power-jack-supply-socket-5-5x2-1mm/"
+      "id": 21
     },
     {
       "name": "PCB Prototype Board 2.5mm Hole Pitch 5x7 cm (Single-Sided)",
       "partNumber": "ROBU - 1031027",
       "quantity": 4,
-      "id": 22,
-      "link": "https://robu.in/product/5-x-7-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch/"
+      "id": 22
     },
     {
       "name": "GX16 2 Pin 5A Metal Aviation Connector (DC Socket Panel Mount)",
-      "partNumber": "ES - 10024CQ",
+      "partNumber": "ES 10024CQ",
       "quantity": 3,
-      "id": 23,
-      "link": "https://electronicspices.com/product/gx16-2-pin-5a-male-and-female-metal-aviation-connectors-pack-of-5-pair"
+      "id": 23
     },
     {
       "name": "XT60 Female RC Battery Connector",
       "partNumber": "ES - HY8544A",
       "quantity": 3,
-      "id": 24,
-      "link": "https://electronicspices.com/product/xt60-female-rc-battery-connector-pack-of-5"
+      "id": 24
     },
     {
       "name": "XT60 Male RC Battery Connector",
       "partNumber": "ES - MI8544A",
       "quantity": 2,
-      "id": 25,
-      "link": "https://electronicspices.com/product/xt60-male-rc-battery-connector-pack-of-5"
+      "id": 25
     },
     {
       "name": "Banana Connector Male 4mm 15A (Red)",
       "partNumber": "ES -12188CR",
       "quantity": 6,
-      "id": 26,
-      "link": "https://electronicspices.com/product/4mm-15a-red-color-male-plug-banana-connector-pack-of-5pcs"
+      "id": 26
     },
     {
       "name": "Banana Connector Male 4mm 15A (Black)",
       "partNumber": "ES - 12191CR",
       "quantity": 9,
-      "id": 27,
-      "link": "https://electronicspices.com/product/4mm-15a-black-color-male-plug-banana-connector-pack-of-5pcs"
+      "id": 27
     },
     {
       "name": "12-18V 5MM Red LED Metal Indicator Light with 20CM Cable",
       "partNumber": "ROBU - 1320696",
       "quantity": 4,
-      "id": 28,
-      "link": "https://robu.in/product/12-18v-5mm-red-led-metal-indicator-light-with-20cm-cable-pack-of-5/"
+      "id": 28
     },
     {
       "name": "12 Volts DC Fan",
@@ -309,36 +294,31 @@
       "name": "XL6019 DC-DC 5A Adjustable Boost Power Supply Module",
       "partNumber": "ROBU - 1150801",
       "quantity": 3,
-      "id": 31,
-      "link": "https://robu.in/product/xl6019-dc-dc-5a-adjustable-boost-power-supply-module/"
+      "id": 31
     },
     {
       "name": "12V 1 channel relay module with light coupling",
       "partNumber": "ES - 203GL",
       "quantity": 2,
-      "id": 32,
-      "link": "https://electronicspices.com/product/12v-1-channel-relay-module-with-light-coupling"
+      "id": 32
     },
     {
       "name": "8 Pin DIP IC Socket Base Power Supply Adaptor",
       "partNumber": "ES - LX8536A1",
       "quantity": 4,
-      "id": 33,
-      "link": "https://electronicspices.com/?s=LX8536A1&product_cat="
+      "id": 33
     },
     {
       "name": "9v Battery Connector",
-      "partNumber": "ES - 3083FO",
+      "partNumber": "NA",
       "quantity": 9,
-      "id": 34,
-      "link": "https://electronicspices.com/product/9v-battery-clip-connector-pack-of-10pcs"
+      "id": 34
     },
     {
       "name": "1N5822 3A 500V Reverse voltage diode",
       "partNumber": "ES - 6417DT",
       "quantity": 12,
-      "id": 35,
-      "link": "https://electronicspices.com/product/1n5822-3a-500v-reverse-voltage-diode-pack-of-50pcs"
+      "id": 35
     },
     {
       "name": "2.54mm DC3 20 Pin Straight Female IDC Socket (Ribbon Cable Connector)",
