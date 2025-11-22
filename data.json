@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:42:46.794Z",
+  "exportedAt": "2025-11-22T18:44:07.202Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -458,6 +458,20 @@
       "quantity": 5,
       "link": "https://electronicspices.com/product/ss12f15g5-0-3a-30v-spdt-3-pin-metal-body-panel-mount-plastic-handle-slide-switch-pack-of-5pcs",
       "id": 51
+    },
+    {
+      "name": "SS12F44G7 0.3A 30V SPDT 3 pin metal body panel mount plastic handle slide switches",
+      "partNumber": "ES - 11573GZ",
+      "quantity": 20,
+      "link": "https://electronicspices.com/product/ss12f44g7-0-3a-30v-spdt-3-pin-metal-body-panel-mount-plastic-handle-slide-switches-pack-of-20pcs",
+      "id": 52
+    },
+    {
+      "name": "KCD1 6A 250V 3 pin SPST red color plastic rocker switch with indicator",
+      "partNumber": "ES - 9458GO",
+      "quantity": 5,
+      "link": "https://electronicspices.com/product/kcd1-6a-250v-3-pin-spst-red-color-plastic-rocker-switch-with-indicator-pack-of-5pcs",
+      "id": 53
     }
   ],
   "history": [
