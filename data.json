@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:15:58.252Z",
+  "exportedAt": "2025-11-22T18:17:36.046Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -145,13 +145,14 @@
     },
     {
       "name": "DB9 Male Right Angle Connector",
-      "partNumber": "NA",
+      "partNumber": "ROBU - 520512",
       "quantity": 7,
-      "id": 6
+      "id": 6,
+      "link": "https://robu.in/product/db9-male-right-angle-connector-pack-of-5/"
     },
     {
-      "name": "Manual 4-way DIP switch",
-      "partNumber": "BD04",
+      "name": "Manual 4 way DIP switch standard profiles BD04",
+      "partNumber": "ES - 7510DV",
       "quantity": 18,
       "id": 7
     },
