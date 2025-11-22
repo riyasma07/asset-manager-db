@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:09:11.296Z",
+  "exportedAt": "2025-11-22T18:10:23.491Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -245,15 +245,17 @@
     },
     {
       "name": "GX16 2 Pin 5A Metal Aviation Connector (DC Socket Panel Mount)",
-      "partNumber": "ES 10024CQ",
+      "partNumber": "ES - 10024CQ",
       "quantity": 3,
-      "id": 23
+      "id": 23,
+      "link": "https://electronicspices.com/product/gx16-2-pin-5a-male-and-female-metal-aviation-connectors-pack-of-5-pair"
     },
     {
       "name": "XT60 Female RC Battery Connector",
       "partNumber": "ES - HY8544A",
       "quantity": 3,
-      "id": 24
+      "id": 24,
+      "link": "https://electronicspices.com/product/xt60-female-rc-battery-connector-pack-of-5"
     },
     {
       "name": "XT60 Male RC Battery Connector",
