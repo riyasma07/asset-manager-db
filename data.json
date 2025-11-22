@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T17:49:09.330Z",
+  "exportedAt": "2025-11-22T17:50:18.160Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -113,7 +113,7 @@
     {
       "name": "DC Fan (5V)",
       "partNumber": "NA",
-      "quantity": 6,
+      "quantity": 4,
       "id": 1
     },
     {
@@ -345,6 +345,16 @@
       "date": "22/11/2025, 4:52:43 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 2
+    },
+    {
+      "itemId": 1,
+      "itemName": "DC Fan (5V)",
+      "action": "assigned",
+      "from": "6 units",
+      "to": "MOHAMED RIYASUDEEN D (2 units)",
+      "date": "22/11/2025, 11:19:51 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 181
     }
   ]
 }
