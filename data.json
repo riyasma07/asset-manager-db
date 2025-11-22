@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T11:17:38.954Z",
+  "exportedAt": "2025-11-22T11:22:31.308Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -111,8 +111,8 @@
   ],
   "consumables": [
     {
-      "name": "DC Fan (5V)",
-      "partNumber": "NA",
+      "name": "5V DC Fan",
+      "partNumber": "ME40100V1",
       "quantity": 6,
       "id": 1
     },
@@ -271,6 +271,18 @@
       "partNumber": "ES - 12191CR",
       "quantity": 9,
       "id": 27
+    },
+    {
+      "name": "12-18V 5MM Red LED Metal Indicator Light with 20CM Cable",
+      "partNumber": "ROBU - 1320696",
+      "quantity": 4,
+      "id": 28
+    },
+    {
+      "name": "12 Volts DC Fan",
+      "partNumber": "KF4010M12S",
+      "quantity": 1,
+      "id": 29
     }
   ],
   "history": [
