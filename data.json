@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:18:33.895Z",
+  "exportedAt": "2025-11-22T18:20:00.886Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -165,14 +165,15 @@
       "link": "https://electronicspices.com/product/manual-10-way-dip-switch-standard-profiles-bd10-pack-of-10pcs"
     },
     {
-      "name": "Manual 2-way DIP switch",
-      "partNumber": "BD02",
+      "name": " Manual 2 way DIP switch standard profile BD02",
+      "partNumber": "ES - 7503DV",
       "quantity": 4,
-      "id": 9
+      "id": 9,
+      "link": "https://electronicspices.com/product/manual-2-way-dip-switch-standard-profile-bd02-pack-of-5pcs"
     },
     {
-      "name": "Manual 8-way DIP switch",
-      "partNumber": "BD08",
+      "name": "Manual 8 way DIP switch standard profiles BD08",
+      "partNumber": "ES - 7522DV",
       "quantity": 5,
       "id": 10
     },
