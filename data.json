@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:01:54.244Z",
+  "exportedAt": "2025-11-22T18:04:17.945Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -295,7 +295,8 @@
       "name": "XL6019 DC-DC 5A Adjustable Boost Power Supply Module",
       "partNumber": "ROBU - 1150801",
       "quantity": 3,
-      "id": 31
+      "id": 31,
+      "link": "https://robu.in/product/xl6019-dc-dc-5a-adjustable-boost-power-supply-module/"
     },
     {
       "name": "12V 1 channel relay module with light coupling",
