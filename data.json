@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:44:07.202Z",
+  "exportedAt": "2025-11-22T18:46:47.165Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -472,6 +472,13 @@
       "quantity": 5,
       "link": "https://electronicspices.com/product/kcd1-6a-250v-3-pin-spst-red-color-plastic-rocker-switch-with-indicator-pack-of-5pcs",
       "id": 53
+    },
+    {
+      "name": "11mm diameter 7.5 inch long Cylindrical hot glue gun stick",
+      "partNumber": "ES - 15198EG",
+      "quantity": 5,
+      "link": "https://electronicspices.com/product/11mm-diameter-7-5-inch-long-cylindrical-hot-glue-gun-stick-pack-of-5-sticks",
+      "id": 54
     }
   ],
   "history": [
