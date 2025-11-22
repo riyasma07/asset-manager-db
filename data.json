@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T11:12:38.961Z",
+  "exportedAt": "2025-11-22T11:17:38.954Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -241,6 +241,36 @@
       "partNumber": "ROBU - 1031027",
       "quantity": 4,
       "id": 22
+    },
+    {
+      "name": "GX16 2 Pin 5A Metal Aviation Connector (DC Socket Panel Mount)",
+      "partNumber": "ES 10024CQ",
+      "quantity": 3,
+      "id": 23
+    },
+    {
+      "name": "XT60 Female RC Battery Connector",
+      "partNumber": "ES - HY8544A",
+      "quantity": 3,
+      "id": 24
+    },
+    {
+      "name": "XT60 Male RC Battery Connector",
+      "partNumber": "ES - MI8544A",
+      "quantity": 2,
+      "id": 25
+    },
+    {
+      "name": "Banana Connector Male 4mm 15A (Red)",
+      "partNumber": "ES -12188CR",
+      "quantity": 6,
+      "id": 26
+    },
+    {
+      "name": "Banana Connector Male 4mm 15A (Black)",
+      "partNumber": "ES - 12191CR",
+      "quantity": 9,
+      "id": 27
     }
   ],
   "history": [
