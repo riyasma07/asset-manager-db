@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:37:49.492Z",
+  "exportedAt": "2025-11-22T18:38:47.837Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -391,21 +391,21 @@
     },
     {
       "name": "40mm Insulated crocodile alligator clip or test clamps (Red)",
-      "partNumber": "482DM",
+      "partNumber": "ES - 482DM",
       "quantity": 10,
       "link": "https://electronicspices.com/product/40mm-insulated-crocodile-alligator-clip-or-test-clamps-pack-of-20-pair",
       "id": 42
     },
     {
       "name": "10A red color 22-16 wire gauge bullet crimp connector (Male)",
-      "partNumber": "9736DL",
+      "partNumber": "ES - 9736DL",
       "quantity": 10,
       "link": "https://electronicspices.com/product/male-and-female-pair-of-10a-red-color-22-16-wire-gauge-bullet-crimp-connector-pack-of-20-pair-mpd1-250-and-frd1-250",
       "id": 43
     },
     {
       "name": "10A red color 22-16 wire gauge bullet crimp connector (Female)",
-      "partNumber": "9736DL",
+      "partNumber": "ES - 9736DL",
       "quantity": 10,
       "link": "https://electronicspices.com/product/male-and-female-pair-of-10a-red-color-22-16-wire-gauge-bullet-crimp-connector-pack-of-20-pair-mpd1-250-and-frd1-250",
       "id": 44
@@ -416,6 +416,13 @@
       "quantity": 5,
       "link": "https://electronicspices.com/product/4mm-5a-black-color-female-socket-banana-connector-pack-of-5pcs",
       "id": 45
+    },
+    {
+      "name": "4mm 5A Black color Female socket banana connector (Red)",
+      "partNumber": "ES - 12243CR",
+      "quantity": 5,
+      "link": "https://electronicspices.com/product/4mm-5a-red-color-female-socket-banana-connector-pack-of-5pcs",
+      "id": 46
     }
   ],
   "history": [
