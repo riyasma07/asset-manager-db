@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:26:46.211Z",
+  "exportedAt": "2025-11-22T18:30:26.099Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -346,6 +346,27 @@
       "quantity": 12,
       "id": 35,
       "link": "https://electronicspices.com/product/1n5822-3a-500v-reverse-voltage-diode-pack-of-50pcs"
+    },
+    {
+      "name": "2.54mm DC3 20 Pin Straight Female IDC Socket (Ribbon Cable Connector)",
+      "partNumber": "ROBU - 542753",
+      "quantity": 5,
+      "link": "https://robu.in/product/2-54mm-dc3-20-pin-straight-female-idc-socket-pack-of-5/",
+      "id": 36
+    },
+    {
+      "name": "SPST Momentary Green Color Horn Type Push Button Switch",
+      "partNumber": "ES - CA8544E1",
+      "quantity": 5,
+      "link": "https://electronicspices.com/product/spst-momentary-green-color-horn-type-push-button-switch-pack-of-5",
+      "id": 37
+    },
+    {
+      "name": "Mini jumper short circuit cap connector",
+      "partNumber": "ES - Mini jumper short circuit cap connector",
+      "quantity": 17,
+      "link": "https://electronicspices.com/product/mini-jumper-short-circuit-cap-connector-pack-of-100pcs",
+      "id": 38
     }
   ],
   "history": [
