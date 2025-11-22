@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:38:47.837Z",
+  "exportedAt": "2025-11-22T18:40:08.166Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -412,7 +412,7 @@
     },
     {
       "name": "4mm 5A Black color Female socket banana connector (Black)",
-      "partNumber": "12246CR",
+      "partNumber": "ES - 12246CR",
       "quantity": 5,
       "link": "https://electronicspices.com/product/4mm-5a-black-color-female-socket-banana-connector-pack-of-5pcs",
       "id": 45
@@ -423,6 +423,13 @@
       "quantity": 5,
       "link": "https://electronicspices.com/product/4mm-5a-red-color-female-socket-banana-connector-pack-of-5pcs",
       "id": 46
+    },
+    {
+      "name": "100K dual gang rotary potentiometer (A100, B100) D shape shaft handle 6 pin",
+      "partNumber": "ES - 585GA",
+      "quantity": 5,
+      "link": "https://electronicspices.com/product/100k-dual-gang-rotary-potentiometer-a100-b100-d-shape-shaft-handle-6-pin-pack-of-2pcs",
+      "id": 47
     }
   ],
   "history": [
