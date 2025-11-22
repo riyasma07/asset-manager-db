@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:46:47.165Z",
+  "exportedAt": "2025-11-22T18:49:02.485Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -479,6 +479,20 @@
       "quantity": 5,
       "link": "https://electronicspices.com/product/11mm-diameter-7-5-inch-long-cylindrical-hot-glue-gun-stick-pack-of-5-sticks",
       "id": 54
+    },
+    {
+      "name": "2 line Electrical cable quick splice push lock wire connector",
+      "partNumber": "56576HV",
+      "quantity": 50,
+      "link": "https://electronicspices.com/product/2-line-electrical-cable-quick-splice-push-lock-wire-connector-pack-of-50pcs",
+      "id": 55
+    },
+    {
+      "name": "DE-9 9 pin D-sub miniature male connector with backshell pack",
+      "partNumber": "ES - 13718DO",
+      "quantity": 5,
+      "link": "https://electronicspices.com/product/de-9-9-pin-d-sub-miniature-male-connector-with-backshell-pack-of-5pcs",
+      "id": 56
     }
   ],
   "history": [
