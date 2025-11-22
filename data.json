@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:40:08.166Z",
+  "exportedAt": "2025-11-22T18:41:26.929Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -430,6 +430,20 @@
       "quantity": 5,
       "link": "https://electronicspices.com/product/100k-dual-gang-rotary-potentiometer-a100-b100-d-shape-shaft-handle-6-pin-pack-of-2pcs",
       "id": 47
+    },
+    {
+      "name": "Green color Potentiometer knob Rotary switch cap",
+      "partNumber": "ES - 572GA",
+      "quantity": 10,
+      "link": "https://electronicspices.com/product/green-color-potentiometer-knob-rotary-switch-cap-pack-of-10pcs",
+      "id": 48
+    },
+    {
+      "name": "3.3k ohm 0603 High Power SMD Thick Film Chip Resistor",
+      "partNumber": "ES - TD8533E1",
+      "quantity": 50,
+      "link": "https://electronicspices.com/product/3-3k-ohm-0603-high-power-smd-thick-film-chip-resistor-pack-of-50",
+      "id": 49
     }
   ],
   "history": [
