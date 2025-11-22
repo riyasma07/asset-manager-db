@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T11:27:39.258Z",
+  "exportedAt": "2025-11-22T11:32:39.262Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -301,6 +301,18 @@
       "partNumber": "ES - 203GL",
       "quantity": 2,
       "id": 32
+    },
+    {
+      "name": "8 Pin DIP IC Socket Base Power Supply Adaptor",
+      "partNumber": "ES - LX8536A1",
+      "quantity": 4,
+      "id": 33
+    },
+    {
+      "name": "9v Battery Connector",
+      "partNumber": "NA",
+      "quantity": 9,
+      "id": 34
     }
   ],
   "history": [
