@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:11:38.420Z",
+  "exportedAt": "2025-11-22T18:12:48.466Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -205,7 +205,8 @@
       "name": "Led Holder (5 mm)",
       "partNumber": "60215BT",
       "quantity": 5,
-      "id": 16
+      "id": 16,
+      "link": "https://electronicspices.com/product/5mm-metal-bulb-holder-led-light-mounting-holder-pack-of-10pcs"
     },
     {
       "name": "DC Jack Wired (Female)",
@@ -217,7 +218,8 @@
       "name": "DC Jack Male (Wired)",
       "partNumber": "ROBU - 699534",
       "quantity": 1,
-      "id": 18
+      "id": 18,
+      "link": "https://robu.in/product/dc-jack-connector-with-wire/"
     },
     {
       "name": "Masking Tape (Big)",
@@ -236,7 +238,8 @@
       "name": "DC Socket Female 5.5mm x 2.1mm (PCB Mount)",
       "partNumber": "ROBU - 121507",
       "quantity": 5,
-      "id": 21
+      "id": 21,
+      "link": "https://robu.in/product/dc-005-female-dc-power-jack-supply-socket-5-5x2-1mm/"
     },
     {
       "name": "PCB Prototype Board 2.5mm Hole Pitch 5x7 cm (Single-Sided)",
