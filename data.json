@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T18:10:23.491Z",
+  "exportedAt": "2025-11-22T18:11:38.420Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -229,7 +229,8 @@
       "name": "DC Jack Female 5.5mm x 2.1mm (PCB Panel Mount)",
       "partNumber": "ES - 58943DP",
       "quantity": 7,
-      "id": 20
+      "id": 20,
+      "link": "https://electronicspices.com/product/dc-099-5-5mm-x-2-1mm-female-jacks-3-pin-pcb-panel-mount-dc-power-connectors-with-cover-pack-of-5pcs"
     },
     {
       "name": "DC Socket Female 5.5mm x 2.1mm (PCB Mount)",
@@ -241,7 +242,8 @@
       "name": "PCB Prototype Board 2.5mm Hole Pitch 5x7 cm (Single-Sided)",
       "partNumber": "ROBU - 1031027",
       "quantity": 4,
-      "id": 22
+      "id": 22,
+      "link": "https://robu.in/product/5-x-7-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch/"
     },
     {
       "name": "GX16 2 Pin 5A Metal Aviation Connector (DC Socket Panel Mount)",
