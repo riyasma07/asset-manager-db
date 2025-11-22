@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T10:45:39.271Z",
+  "exportedAt": "2025-11-22T10:47:38.215Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -214,7 +214,7 @@
     },
     {
       "name": "DC Jack Male (Wired)",
-      "partNumber": "NA",
+      "partNumber": "Robu - 699534",
       "quantity": 1,
       "id": 18
     },
@@ -231,8 +231,8 @@
       "id": 20
     },
     {
-      "name": "DC Jack Female (PCB Mount)",
-      "partNumber": "NA",
+      "name": "DC Jack Female 3.5mm (PCB Panel Mount)",
+      "partNumber": "ES - 60684DP",
       "quantity": 5,
       "id": 21
     }
