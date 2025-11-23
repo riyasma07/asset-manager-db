@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-22T19:14:44.996Z",
+  "exportedAt": "2025-11-23T08:39:05.011Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -113,14 +113,15 @@
     {
       "name": "DC Fan (5V)",
       "partNumber": "NA",
-      "quantity": 6,
+      "quantity": 4,
       "id": 1
     },
     {
-      "name": "9v Battery (Hi-Tech)",
-      "partNumber": "6F22",
+      "name": "9V 6F22M Hi-Watt Non rechargeable heavy-duty battery",
+      "partNumber": "ES - 932FK",
       "quantity": 16,
-      "id": 2
+      "id": 2,
+      "link": "https://electronicspices.com/product/9v-6f22m-hi-watt-non-rechargeable-heavy-duty-battery-box-of-10-batteries"
     },
     {
       "name": "DB9 Female (Blue)",
@@ -130,9 +131,10 @@
     },
     {
       "name": "DB9 Cover",
-      "partNumber": "NA",
+      "partNumber": "E - 20518DO",
       "quantity": 2,
-      "id": 4
+      "id": 4,
+      "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connector-with-backshell-pack-of-5pcs"
     },
     {
       "name": "BNC Connector (male)",
@@ -492,7 +494,7 @@
       "id": 56
     },
     {
-      "name": "DE-9 9 through hole D-sub miniature female connectors (DB9)",
+      "name": "DE-9 9  pin D-sub miniature female connectors (DB9)",
       "partNumber": "ES - 20519DO",
       "quantity": 10,
       "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connectors-with-backshell-pack-of-10pcs",
