@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-24T16:28:19.631Z",
+  "exportedAt": "2025-11-24T16:31:28.721Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -494,7 +494,7 @@
       "id": 56
     },
     {
-      "name": "DE-9 9 through hole D-sub miniature female connectors (DB9)",
+      "name": "DE-9 9  pin D-sub miniature female connectors (DB9)",
       "partNumber": "ES - 20519DO",
       "quantity": 10,
       "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connectors-with-backshell-pack-of-10pcs",
