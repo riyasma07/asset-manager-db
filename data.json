@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-25T18:12:12.212Z",
+  "exportedAt": "2025-11-25T18:13:50.192Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -126,12 +126,6 @@
       "quantity": 16,
       "id": 2,
       "link": "https://electronicspices.com/product/9v-6f22m-hi-watt-non-rechargeable-heavy-duty-battery-box-of-10-batteries"
-    },
-    {
-      "name": "DB9 Female (Blue)",
-      "partNumber": "NA",
-      "quantity": 1,
-      "id": 3
     },
     {
       "name": "BNC Connector (male)",
@@ -493,10 +487,21 @@
     {
       "name": "DE-9 9  pin D-sub miniature female connectors (DB9)",
       "partNumber": "ES - 20519DO",
-      "quantity": 10,
+      "quantity": 11,
       "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connectors-with-backshell-pack-of-10pcs",
       "id": 57
     }
   ],
-  "history": []
+  "history": [
+    {
+      "itemId": 57,
+      "itemName": "DE-9 9  pin D-sub miniature female connectors (DB9)",
+      "action": "qty_added",
+      "from": 10,
+      "to": 11,
+      "date": "25/11/2025, 11:42:30 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 1
+    }
+  ]
 }
