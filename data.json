@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-25T18:19:34.200Z",
+  "exportedAt": "2025-11-25T18:20:47.864Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -494,24 +494,14 @@
   ],
   "history": [
     {
-      "itemId": 57,
-      "itemName": "DE-9 9  pin D-sub miniature female connectors (DB9)",
-      "action": "qty_added",
-      "from": 10,
-      "to": 11,
-      "date": "25/11/2025, 11:42:30 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 1
-    },
-    {
       "itemId": 1,
       "itemName": "Vector CANoe (VN1630)",
       "action": "returned",
       "from": "Prasanth Chandiran",
       "to": "Available",
-      "date": "25/11/2025, 11:48:50 pm",
+      "date": "25/11/2025, 11:50:47 pm",
       "user": "MOHAMED RIYASUDEEN D",
-      "id": 5
+      "id": 1
     }
   ]
 }
