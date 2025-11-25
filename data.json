@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-25T18:08:50.197Z",
+  "exportedAt": "2025-11-25T18:12:12.212Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -132,13 +132,6 @@
       "partNumber": "NA",
       "quantity": 1,
       "id": 3
-    },
-    {
-      "name": "DB9 Cover",
-      "partNumber": "E - 20518DO",
-      "quantity": 2,
-      "id": 4,
-      "link": "https://electronicspices.com/product/de-9-9-through-hole-d-sub-miniature-female-connector-with-backshell-pack-of-5pcs"
     },
     {
       "name": "BNC Connector (male)",
