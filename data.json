@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-27T05:56:53.530Z",
+  "exportedAt": "2025-11-27T05:57:58.381Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -53,7 +53,7 @@
       "name": "Vector CANoe (VN1630)",
       "serial": "007104-003514",
       "condition": "working",
-      "holder": "",
+      "holder": "MOHAMED RIYASUDEEN D",
       "id": 1
     },
     {
@@ -81,7 +81,7 @@
       "name": "PE Micro Debugger",
       "serial": "2UUSHOPE2417TE",
       "condition": "working",
-      "holder": "",
+      "holder": "MOHAMED RIYASUDEEN D",
       "id": 7
     },
     {
@@ -492,5 +492,26 @@
       "id": 57
     }
   ],
-  "history": []
+  "history": [
+    {
+      "itemId": 7,
+      "itemName": "PE Micro Debugger",
+      "action": "assigned",
+      "from": "Available",
+      "to": "MOHAMED RIYASUDEEN D",
+      "date": "27/11/2025, 11:27:47 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 1
+    },
+    {
+      "itemId": 1,
+      "itemName": "Vector CANoe (VN1630)",
+      "action": "assigned",
+      "from": "Available",
+      "to": "MOHAMED RIYASUDEEN D",
+      "date": "27/11/2025, 11:27:58 am",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 2
+    }
+  ]
 }
