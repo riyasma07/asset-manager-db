@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-25T18:20:47.864Z",
+  "exportedAt": "2025-11-27T05:56:53.530Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -492,16 +492,5 @@
       "id": 57
     }
   ],
-  "history": [
-    {
-      "itemId": 1,
-      "itemName": "Vector CANoe (VN1630)",
-      "action": "returned",
-      "from": "Prasanth Chandiran",
-      "to": "Available",
-      "date": "25/11/2025, 11:50:47 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 1
-    }
-  ]
+  "history": []
 }
