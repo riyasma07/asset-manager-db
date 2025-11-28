@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-28T11:15:05.983Z",
+  "exportedAt": "2025-11-28T11:17:24.281Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -133,7 +133,7 @@
     {
       "name": "9V 6F22M Hi-Watt Non rechargeable heavy-duty battery",
       "partNumber": "ES - 932FK",
-      "quantity": 16,
+      "quantity": 14,
       "id": 2,
       "link": "https://electronicspices.com/product/9v-6f22m-hi-watt-non-rechargeable-heavy-duty-battery-box-of-10-batteries"
     },
@@ -181,7 +181,7 @@
     {
       "name": "KCD1-B101 6A 250V AC red color 2 pin SPST small plastic rocker switch",
       "partNumber": "ES - 612GO",
-      "quantity": 10,
+      "quantity": 8,
       "id": 11,
       "link": "https://electronicspices.com/product/kcd1-b101-6a-250v-ac-red-color-2-pin-spst-small-plastic-rocker-switch-pack-of-5pcs"
     },
@@ -371,7 +371,7 @@
     {
       "name": "5mm Red color LED round shape",
       "partNumber": "ES - 7541BT",
-      "quantity": 20,
+      "quantity": 14,
       "link": "https://electronicspices.com/product/5mm-red-color-led-round-shape-pack-of-20-red-in-red",
       "id": 39
     },
@@ -542,6 +542,36 @@
       "date": "28/11/2025, 4:44:34 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 4
+    },
+    {
+      "itemId": 39,
+      "itemName": "5mm Red color LED round shape",
+      "action": "assigned",
+      "from": "20 units",
+      "to": "MOHAMED RIYASUDEEN D (6 units)",
+      "date": "28/11/2025, 4:45:37 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 5
+    },
+    {
+      "itemId": 2,
+      "itemName": "9V 6F22M Hi-Watt Non rechargeable heavy-duty battery",
+      "action": "assigned",
+      "from": "16 units",
+      "to": "MOHAMED RIYASUDEEN D (2 units)",
+      "date": "28/11/2025, 4:45:58 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 6
+    },
+    {
+      "itemId": 11,
+      "itemName": "KCD1-B101 6A 250V AC red color 2 pin SPST small plastic rocker switch",
+      "action": "assigned",
+      "from": "10 units",
+      "to": "MOHAMED RIYASUDEEN D (2 units)",
+      "date": "28/11/2025, 4:47:24 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 7
     }
   ]
 }
