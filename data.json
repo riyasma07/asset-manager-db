@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-28T11:13:58.678Z",
+  "exportedAt": "2025-11-28T11:15:05.983Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -70,7 +70,7 @@
       "name": "Soldering Station (SOLDRON 936)",
       "serial": "SL936000651",
       "condition": "working",
-      "holder": "",
+      "holder": "MOHAMED RIYASUDEEN D",
       "id": 3
     },
     {
@@ -116,7 +116,7 @@
       "id": 11
     },
     {
-      "name": "S-BUS CAN (Sloki",
+      "name": "S-BUS CAN (Sloki)",
       "serial": "C000-140723-A148",
       "condition": "working",
       "holder": "",
@@ -532,6 +532,16 @@
       "date": "28/11/2025, 2:30:39 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 3
+    },
+    {
+      "itemId": 3,
+      "itemName": "Soldering Station (SOLDRON 936)",
+      "action": "assigned",
+      "from": "Available",
+      "to": "MOHAMED RIYASUDEEN D",
+      "date": "28/11/2025, 4:44:34 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 4
     }
   ]
 }
