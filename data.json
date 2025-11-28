@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-28T11:00:24.585Z",
+  "exportedAt": "2025-11-28T11:03:35.509Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -343,7 +343,7 @@
     {
       "name": "1N5822 3A 500V Reverse voltage diode",
       "partNumber": "ES - 6417DT",
-      "quantity": 11,
+      "quantity": 12,
       "id": 35,
       "link": "https://electronicspices.com/product/1n5822-3a-500v-reverse-voltage-diode-pack-of-50pcs"
     },
@@ -502,36 +502,5 @@
       "id": 57
     }
   ],
-  "history": [
-    {
-      "itemId": 7,
-      "itemName": "PE Micro Debugger",
-      "action": "assigned",
-      "from": "Available",
-      "to": "MOHAMED RIYASUDEEN D",
-      "date": "27/11/2025, 11:27:47 am",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 1
-    },
-    {
-      "itemId": 1,
-      "itemName": "Vector CANoe (VN1630)",
-      "action": "assigned",
-      "from": "Available",
-      "to": "MOHAMED RIYASUDEEN D",
-      "date": "27/11/2025, 11:27:58 am",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 2
-    },
-    {
-      "itemId": 35,
-      "itemName": "1N5822 3A 500V Reverse voltage diode",
-      "action": "assigned",
-      "from": "12 units",
-      "to": "Mirnalani J (1 units)",
-      "date": "28/11/2025, 2:30:39 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 3
-    }
-  ]
+  "history": []
 }
