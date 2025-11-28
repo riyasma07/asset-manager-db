@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-28T17:15:24.654Z",
+  "exportedAt": "2025-11-28T17:17:19.792Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -115,7 +115,7 @@
       "name": "FLUKE Multimeter",
       "serial": "62290201",
       "condition": "working",
-      "holder": "Riyas",
+      "holder": "",
       "id": 10
     },
     {
@@ -532,36 +532,6 @@
       "date": "28/11/2025, 10:32:41 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 15
-    },
-    {
-      "itemId": 39,
-      "itemName": "5mm Red color LED round shape",
-      "action": "assigned",
-      "from": "19 units",
-      "to": "Riyas (1 units)",
-      "date": "28/11/2025, 10:44:10 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 19
-    },
-    {
-      "itemId": 39,
-      "itemName": "5mm Red color LED round shape",
-      "action": "assigned",
-      "from": "18 units",
-      "to": "Riyas (1 units)",
-      "date": "28/11/2025, 10:44:42 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 20
-    },
-    {
-      "itemId": 10,
-      "itemName": "FLUKE Multimeter",
-      "action": "assigned",
-      "from": "Available",
-      "to": "Riyas",
-      "date": "28/11/2025, 10:45:24 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 21
     }
   ]
 }
