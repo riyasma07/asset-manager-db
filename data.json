@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-28T18:32:23.850Z",
+  "exportedAt": "2025-11-28T18:32:42.065Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -512,86 +512,5 @@
       "id": 57
     }
   ],
-  "history": [
-    {
-      "itemId": 10,
-      "itemName": "FLUKE Multimeter",
-      "action": "assigned",
-      "from": "Available",
-      "to": "Riyas",
-      "date": "28/11/2025, 10:31:36 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 14
-    },
-    {
-      "itemId": 10,
-      "itemName": "FLUKE Multimeter",
-      "action": "returned",
-      "from": "Riyas",
-      "to": "Available",
-      "date": "28/11/2025, 10:32:41 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 15
-    },
-    {
-      "itemId": 11,
-      "itemName": "S-BUS CAN (Sloki)",
-      "action": "assigned",
-      "from": "Available",
-      "to": "Riyas",
-      "date": "28/11/2025, 10:47:26 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 23
-    },
-    {
-      "itemId": 11,
-      "itemName": "S-BUS CAN (Sloki)",
-      "action": "returned",
-      "from": "Riyas",
-      "to": "Available",
-      "date": "28/11/2025, 10:48:31 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 24
-    },
-    {
-      "itemId": 10,
-      "itemName": "FLUKE Multimeter",
-      "action": "assigned",
-      "from": "Available",
-      "to": "Riyas",
-      "date": "28/11/2025, 10:50:45 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 25
-    },
-    {
-      "itemId": 10,
-      "itemName": "FLUKE Multimeter",
-      "action": "returned",
-      "from": "Riyas",
-      "to": "Available",
-      "date": "28/11/2025, 10:50:54 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 26
-    },
-    {
-      "itemId": 10,
-      "itemName": "FLUKE Multimeter",
-      "action": "assigned",
-      "from": "Available",
-      "to": "Riyas",
-      "date": "28/11/2025, 10:51:21 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 27
-    },
-    {
-      "itemId": 10,
-      "itemName": "FLUKE Multimeter",
-      "action": "returned",
-      "from": "Riyas",
-      "to": "Available",
-      "date": "28/11/2025, 10:51:31 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 28
-    }
-  ]
+  "history": []
 }
