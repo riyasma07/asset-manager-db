@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-28T11:09:26.574Z",
+  "exportedAt": "2025-11-28T11:11:42.956Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -343,7 +343,7 @@
     {
       "name": "1N5822 3A 500V Reverse voltage diode",
       "partNumber": "ES - 6417DT",
-      "quantity": 11,
+      "quantity": 12,
       "id": 35,
       "link": "https://electronicspices.com/product/1n5822-3a-500v-reverse-voltage-diode-pack-of-50pcs"
     },
