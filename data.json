@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-28T17:17:19.792Z",
+  "exportedAt": "2025-11-28T17:18:31.477Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -532,6 +532,26 @@
       "date": "28/11/2025, 10:32:41 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 15
+    },
+    {
+      "itemId": 11,
+      "itemName": "S-BUS CAN (Sloki)",
+      "action": "assigned",
+      "from": "Available",
+      "to": "Riyas",
+      "date": "28/11/2025, 10:47:26 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 23
+    },
+    {
+      "itemId": 11,
+      "itemName": "S-BUS CAN (Sloki)",
+      "action": "returned",
+      "from": "Riyas",
+      "to": "Available",
+      "date": "28/11/2025, 10:48:31 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 24
     }
   ]
 }
