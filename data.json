@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-28T08:58:59.437Z",
+  "exportedAt": "2025-11-28T09:00:23.838Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -46,6 +46,16 @@
       "department": "EV BMS Hardware",
       "isAdmin": false,
       "id": 18
+    },
+    {
+      "name": "Mirnalani J",
+      "email": "mirnalanij@royalenfield.com",
+      "password": "bWlybmFsYW5p",
+      "mobile": "",
+      "designation": "Testing",
+      "department": "EV - Hardware",
+      "isAdmin": false,
+      "id": 19
     }
   ],
   "items": [
