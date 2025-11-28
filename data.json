@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-28T11:17:24.281Z",
+  "exportedAt": "2025-11-28T15:47:26.744Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -133,7 +133,7 @@
     {
       "name": "9V 6F22M Hi-Watt Non rechargeable heavy-duty battery",
       "partNumber": "ES - 932FK",
-      "quantity": 14,
+      "quantity": 16,
       "id": 2,
       "link": "https://electronicspices.com/product/9v-6f22m-hi-watt-non-rechargeable-heavy-duty-battery-box-of-10-batteries"
     },
@@ -181,7 +181,7 @@
     {
       "name": "KCD1-B101 6A 250V AC red color 2 pin SPST small plastic rocker switch",
       "partNumber": "ES - 612GO",
-      "quantity": 8,
+      "quantity": 10,
       "id": 11,
       "link": "https://electronicspices.com/product/kcd1-b101-6a-250v-ac-red-color-2-pin-spst-small-plastic-rocker-switch-pack-of-5pcs"
     },
@@ -343,7 +343,7 @@
     {
       "name": "1N5822 3A 500V Reverse voltage diode",
       "partNumber": "ES - 6417DT",
-      "quantity": 11,
+      "quantity": 12,
       "id": 35,
       "link": "https://electronicspices.com/product/1n5822-3a-500v-reverse-voltage-diode-pack-of-50pcs"
     },
@@ -371,7 +371,7 @@
     {
       "name": "5mm Red color LED round shape",
       "partNumber": "ES - 7541BT",
-      "quantity": 14,
+      "quantity": 20,
       "link": "https://electronicspices.com/product/5mm-red-color-led-round-shape-pack-of-20-red-in-red",
       "id": 39
     },
