@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-28T16:35:55.782Z",
+  "exportedAt": "2025-11-28T16:36:56.947Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -56,6 +56,16 @@
       "department": "EV - Hardware",
       "isAdmin": false,
       "id": 19
+    },
+    {
+      "name": "Riyas",
+      "email": "riyaseee027@gmail.com",
+      "password": "aG9nd2FydHNAMTIz",
+      "mobile": "",
+      "designation": "Engineer",
+      "department": "Software",
+      "isAdmin": true,
+      "id": 20
     }
   ],
   "items": [
@@ -502,76 +512,5 @@
       "id": 57
     }
   ],
-  "history": [
-    {
-      "itemId": 7,
-      "itemName": "PE Micro Debugger",
-      "action": "assigned",
-      "from": "Available",
-      "to": "MOHAMED RIYASUDEEN D",
-      "date": "27/11/2025, 11:27:47 am",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 1
-    },
-    {
-      "itemId": 1,
-      "itemName": "Vector CANoe (VN1630)",
-      "action": "assigned",
-      "from": "Available",
-      "to": "MOHAMED RIYASUDEEN D",
-      "date": "27/11/2025, 11:27:58 am",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 2
-    },
-    {
-      "itemId": 35,
-      "itemName": "1N5822 3A 500V Reverse voltage diode",
-      "action": "assigned",
-      "from": "12 units",
-      "to": "Mirnalani J (1 units)",
-      "date": "28/11/2025, 2:30:39 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 3
-    },
-    {
-      "itemId": 3,
-      "itemName": "Soldering Station (SOLDRON 936)",
-      "action": "assigned",
-      "from": "Available",
-      "to": "MOHAMED RIYASUDEEN D",
-      "date": "28/11/2025, 4:44:34 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 4
-    },
-    {
-      "itemId": 39,
-      "itemName": "5mm Red color LED round shape",
-      "action": "assigned",
-      "from": "20 units",
-      "to": "MOHAMED RIYASUDEEN D (6 units)",
-      "date": "28/11/2025, 4:45:37 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 5
-    },
-    {
-      "itemId": 2,
-      "itemName": "9V 6F22M Hi-Watt Non rechargeable heavy-duty battery",
-      "action": "assigned",
-      "from": "16 units",
-      "to": "MOHAMED RIYASUDEEN D (2 units)",
-      "date": "28/11/2025, 4:45:58 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 6
-    },
-    {
-      "itemId": 11,
-      "itemName": "KCD1-B101 6A 250V AC red color 2 pin SPST small plastic rocker switch",
-      "action": "assigned",
-      "from": "10 units",
-      "to": "MOHAMED RIYASUDEEN D (2 units)",
-      "date": "28/11/2025, 4:47:24 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 7
-    }
-  ]
+  "history": []
 }
