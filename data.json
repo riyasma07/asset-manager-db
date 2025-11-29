@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-29T18:38:48.716Z",
+  "exportedAt": "2025-11-29T18:43:48.845Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -58,6 +58,17 @@
       "department": "EV - Hardware",
       "isAdmin": false,
       "id": 19
+    },
+    {
+      "name": "Riyas",
+      "email": "riyaseee027@gmail.com",
+      "password": "aG9nd2FydHNAMTIz",
+      "mobile": "",
+      "designation": "",
+      "department": "",
+      "role": "viewer",
+      "isAdmin": false,
+      "id": 20
     }
   ],
   "items": [
