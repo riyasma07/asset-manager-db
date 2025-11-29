@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-29T07:46:03.637Z",
+  "exportedAt": "2025-11-29T07:47:38.461Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -346,7 +346,7 @@
     {
       "name": "9v Battery Connector",
       "partNumber": "ES - 3083FO",
-      "quantity": 9,
+      "quantity": 8,
       "id": 34,
       "link": "https://electronicspices.com/product/9v-battery-clip-connector-pack-of-10pcs"
     },
@@ -381,7 +381,7 @@
     {
       "name": "5mm Red color LED round shape",
       "partNumber": "ES - 7541BT",
-      "quantity": 17,
+      "quantity": 14,
       "link": "https://electronicspices.com/product/5mm-red-color-led-round-shape-pack-of-20-red-in-red",
       "id": 39
     },
@@ -512,5 +512,26 @@
       "id": 57
     }
   ],
-  "history": []
+  "history": [
+    {
+      "itemId": 39,
+      "itemName": "5mm Red color LED round shape",
+      "action": "assigned",
+      "from": "17 units",
+      "to": "MOHAMED RIYASUDEEN D (3 units)",
+      "date": "29/11/2025, 1:16:22 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 1
+    },
+    {
+      "itemId": 34,
+      "itemName": "9v Battery Connector",
+      "action": "assigned",
+      "from": "9 units",
+      "to": "MOHAMED RIYASUDEEN D (1 units)",
+      "date": "29/11/2025, 1:17:38 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 2
+    }
+  ]
 }
