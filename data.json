@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-29T18:04:48.998Z",
+  "exportedAt": "2025-11-29T18:07:05.651Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -24,7 +24,8 @@
       "designation": "Platform Software Developer",
       "department": "Battery Management System (BMS)",
       "isAdmin": false,
-      "id": 4
+      "id": 4,
+      "role": "member"
     },
     {
       "name": "Ranjith Kumar",
