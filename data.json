@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-29T14:25:49.235Z",
+  "exportedAt": "2025-11-29T14:28:49.416Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -502,46 +502,5 @@
       "id": 57
     }
   ],
-  "history": [
-    {
-      "itemId": 39,
-      "itemName": "5mm Red color LED round shape",
-      "action": "assigned",
-      "from": "17 units",
-      "to": "MOHAMED RIYASUDEEN D (3 units)",
-      "date": "29/11/2025, 1:16:22 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 1
-    },
-    {
-      "itemId": 34,
-      "itemName": "9v Battery Connector",
-      "action": "assigned",
-      "from": "9 units",
-      "to": "MOHAMED RIYASUDEEN D (1 units)",
-      "date": "29/11/2025, 1:17:38 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 2
-    },
-    {
-      "itemId": 2,
-      "itemName": "9V 6F22M Hi-Watt Non rechargeable heavy-duty battery",
-      "action": "assigned",
-      "from": "16 units",
-      "to": "MOHAMED RIYASUDEEN D (2 units)",
-      "date": "29/11/2025, 1:18:02 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 3
-    },
-    {
-      "itemId": 11,
-      "itemName": "KCD1-B101 6A 250V AC red color 2 pin SPST small plastic rocker switch",
-      "action": "assigned",
-      "from": "10 units",
-      "to": "MOHAMED RIYASUDEEN D (2 units)",
-      "date": "29/11/2025, 1:18:28 pm",
-      "user": "MOHAMED RIYASUDEEN D",
-      "id": 4
-    }
-  ]
+  "history": []
 }
