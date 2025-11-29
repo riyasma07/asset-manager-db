@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-29T18:02:28.871Z",
+  "exportedAt": "2025-11-29T18:04:48.998Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -12,7 +12,8 @@
       "designation": "Engineer",
       "department": "Software",
       "isAdmin": true,
-      "id": 1
+      "id": 1,
+      "role": "admin"
     },
     {
       "name": "Prasanth Chandiran",
