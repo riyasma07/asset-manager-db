@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-29T19:33:29.103Z",
+  "exportedAt": "2025-11-29T19:35:34.129Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -66,7 +66,7 @@
       "mobile": "",
       "designation": "",
       "department": "",
-      "role": "viewer",
+      "role": "member",
       "isAdmin": false,
       "id": 25
     }
