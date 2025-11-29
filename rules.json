@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "lastUpdated": "2025-11-29T20:14:44.392Z",
+  "rules": {
+    "member": {
+      "canAddConsumables": false,
+      "canPromoteViewers": false,
+      "canRemoveViewers": true,
+      "canExport": false,
+      "canSync": false,
+      "canEditItems": true,
+      "canViewHistory": true,
+      "canAssignItems": true,
+      "canNotifyHolder": true
+    },
+    "viewer": {
+      "canViewItems": true,
+      "canViewPeople": true,
+      "canEdit": false,
+      "canExport": false,
+      "canSync": false
+    }
+  }
+}
