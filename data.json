@@ -1,7 +1,7 @@
 {
   "__schema__": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-29T07:47:38.461Z",
+  "exportedAt": "2025-11-29T07:50:58.575Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -143,7 +143,7 @@
     {
       "name": "9V 6F22M Hi-Watt Non rechargeable heavy-duty battery",
       "partNumber": "ES - 932FK",
-      "quantity": 16,
+      "quantity": 14,
       "id": 2,
       "link": "https://electronicspices.com/product/9v-6f22m-hi-watt-non-rechargeable-heavy-duty-battery-box-of-10-batteries"
     },
@@ -191,7 +191,7 @@
     {
       "name": "KCD1-B101 6A 250V AC red color 2 pin SPST small plastic rocker switch",
       "partNumber": "ES - 612GO",
-      "quantity": 10,
+      "quantity": 8,
       "id": 11,
       "link": "https://electronicspices.com/product/kcd1-b101-6a-250v-ac-red-color-2-pin-spst-small-plastic-rocker-switch-pack-of-5pcs"
     },
@@ -532,6 +532,26 @@
       "date": "29/11/2025, 1:17:38 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 2
+    },
+    {
+      "itemId": 2,
+      "itemName": "9V 6F22M Hi-Watt Non rechargeable heavy-duty battery",
+      "action": "assigned",
+      "from": "16 units",
+      "to": "MOHAMED RIYASUDEEN D (2 units)",
+      "date": "29/11/2025, 1:18:02 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 3
+    },
+    {
+      "itemId": 11,
+      "itemName": "KCD1-B101 6A 250V AC red color 2 pin SPST small plastic rocker switch",
+      "action": "assigned",
+      "from": "10 units",
+      "to": "MOHAMED RIYASUDEEN D (2 units)",
+      "date": "29/11/2025, 1:18:28 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 4
     }
   ]
 }
