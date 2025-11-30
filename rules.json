@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "lastUpdated": "2025-11-30T08:44:40.433Z",
+  "version": 8,
+  "lastUpdated": "2025-11-30T08:48:02.525Z",
   "rules": {
     "member": {
       "canAddConsumables": false,
@@ -8,11 +8,11 @@
       "canRemoveViewers": true,
       "canExport": false,
       "canSync": false,
-      "canEditItems": true,
+      "canEditItems": false,
       "canViewHistory": true,
       "canAssignItems": true,
-      "canNotifyHolder": true,
-      "canMemberAutoSync": true
+      "canNotifyHolder": false,
+      "canMemberAutoSync": false
     },
     "viewer": {
       "canViewItems": true,
