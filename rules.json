@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "lastUpdated": "2025-11-30T08:48:02.525Z",
+  "version": 9,
+  "lastUpdated": "2025-11-30T09:06:24.529Z",
   "rules": {
     "member": {
       "canAddConsumables": false,
@@ -12,7 +12,8 @@
       "canViewHistory": true,
       "canAssignItems": true,
       "canNotifyHolder": false,
-      "canMemberAutoSync": false
+      "canMemberAutoSync": false,
+      "canAddAssets": false
     },
     "viewer": {
       "canViewItems": true,
