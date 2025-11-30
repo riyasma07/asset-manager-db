@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "lastUpdated": "2025-11-29T20:14:44.392Z",
+  "version": 3,
+  "lastUpdated": "2025-11-30T05:49:49.119Z",
   "rules": {
     "member": {
       "canAddConsumables": false,
