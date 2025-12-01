@@ -1,7 +1,7 @@
 {
   "schema": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-12-01T12:22:25.134Z",
+  "exportedAt": "2025-12-01T12:25:12.195Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -46,6 +46,17 @@
       "department": "EV - Hardware",
       "isAdmin": false,
       "id": 19
+    },
+    {
+      "name": "Prasanth Chandiran",
+      "email": "prasanth_ext@royalenfield.com",
+      "password": "cHJhc2FudGhfZXh0",
+      "mobile": "9566327516",
+      "designation": "Engineer",
+      "department": "Software",
+      "role": "viewer",
+      "isAdmin": false,
+      "id": 20
     }
   ],
   "items": [
@@ -88,7 +99,7 @@
       "name": "Logic Analyzer 8CH",
       "serial": "SN-0001-LOGICCH8",
       "condition": "working",
-      "holder": "MOHAMED RIYASUDEEN D",
+      "holder": "",
       "id": 9
     },
     {
@@ -632,6 +643,16 @@
       "date": "30/11/2025, 4:00:59 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 23
+    },
+    {
+      "itemId": 9,
+      "itemName": "Logic Analyzer 8CH",
+      "action": "returned",
+      "from": "MOHAMED RIYASUDEEN D",
+      "to": "Available",
+      "date": "1/12/2025, 5:55:12 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 24
     }
   ]
 }
