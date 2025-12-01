@@ -1,7 +1,7 @@
 {
   "schema": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-11-30T11:14:36.022Z",
+  "exportedAt": "2025-12-01T12:22:25.134Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -14,18 +14,6 @@
       "isAdmin": true,
       "id": 1,
       "role": "admin"
-    },
-    {
-      "name": "Prasanth Chandiran",
-      "email": "prasanth_ext@royalenfield.com",
-      "password": "c3N0MDAwNA==",
-      "mobile": "",
-      "profilePicture": null,
-      "designation": "Platform Software Developer",
-      "department": "Battery Management System (BMS)",
-      "isAdmin": false,
-      "id": 4,
-      "role": "viewer"
     },
     {
       "name": "Ranjith Kumar",
