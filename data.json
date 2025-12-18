@@ -1,7 +1,7 @@
 {
   "schema": "asset-manager-pro",
   "version": 1,
-  "exportedAt": "2025-12-05T12:17:12.291Z",
+  "exportedAt": "2025-12-18T11:17:06.648Z",
   "users": [
     {
       "name": "MOHAMED RIYASUDEEN D",
@@ -57,6 +57,17 @@
       "role": "member",
       "isAdmin": false,
       "id": 20
+    },
+    {
+      "name": "Shakthivel",
+      "email": "sakthivelr@royalenfield.com",
+      "password": "ODkzOTQ5MjczOQ==",
+      "mobile": "8939492739",
+      "designation": "",
+      "department": "",
+      "role": "viewer",
+      "isAdmin": false,
+      "id": 21
     }
   ],
   "items": [
@@ -255,7 +266,7 @@
     {
       "name": "PCB Prototype Board 2.5mm Hole Pitch 5x7 cm (Single-Sided)",
       "partNumber": "ROBU - 1031027",
-      "quantity": 4,
+      "quantity": 3,
       "id": 22,
       "link": "https://robu.in/product/5-x-7-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch/"
     },
@@ -653,6 +664,16 @@
       "date": "1/12/2025, 5:55:12 pm",
       "user": "MOHAMED RIYASUDEEN D",
       "id": 24
+    },
+    {
+      "itemId": 22,
+      "itemName": "PCB Prototype Board 2.5mm Hole Pitch 5x7 cm (Single-Sided)",
+      "action": "assigned",
+      "from": "4 units",
+      "to": "Shakthivel (1 units)",
+      "date": "18/12/2025, 4:47:06 pm",
+      "user": "MOHAMED RIYASUDEEN D",
+      "id": 26
     }
   ]
 }
